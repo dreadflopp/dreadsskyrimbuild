@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Items on Dread&#39;s Skyrim Build</title>
+    <link>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/items/</link>
+    <description>Recent content in Items on Dread&#39;s Skyrim Build</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/items/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Armor, Clothing &amp; Accessories</title>
+      <link>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/items/armor-clothing-accessories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/items/armor-clothing-accessories/</guid>
+      <description>Bandolier - Bags and Pouches Classic Get the mod   Black Sacrament Armor Get the mod   Install Black Sacrament Armour - SSE CBBE BodySlide and Black Sacrament Armour - ESL version. Delete the file BlackSacramentArmor.esp (keep BlackSacramentArmor.esl). Some optional tweaks are available in this guides patches to make this armor less overpowered. Even so, it is still possible to combine armor pieces in a way that should be considered cheating since it applies armor rating twice, for example using a barette, a hood and a cowl.</description>
+    </item>
+    
+    <item>
+      <title>Weapons</title>
+      <link>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/items/weapons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/items/weapons/</guid>
+      <description>Animated Armoury - New Weapons with animations SSE Version Get the mod   Download and install the optional file Animated Armoury - Plugin Levled List Version and the update file. After installation, delete NewArmoury.bsa and NewArmoury.bsl.
+Artifacts - The Tournament of the ten Bloods Get the mod   Install the main file and the hotfix. In the installer, 2K is recommended.
+Faction Crossbows SE Get the mod   Heavy Armory - New Weapons Get the mod   Oblivion Artifact Pack SE Get the mod   Royal Armory - New Artifacts Get the mod   Ruin&amp;rsquo;s Edge Get the mod   The Staff Of Sheogorath Get the mod   Unique Uniques SE Get the mod   Install main file</description>
+    </item>
+    
+  </channel>
+</rss>
