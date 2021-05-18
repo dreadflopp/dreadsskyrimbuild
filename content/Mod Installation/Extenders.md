@@ -44,6 +44,6 @@ ClearInvalidRegistrations=1
 
 Once complete, the SKSE mod's folder structure should look like this:
 
-![Settings](/dreadsskyrimbuild_v2/images/SKSEinMO.jpg)
+![Settings](/dreadsskyrimbuild/images/SKSEinMO.jpg)
 
 

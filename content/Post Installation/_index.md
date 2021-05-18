@@ -82,10 +82,10 @@ Make sure that all LOD Generation texture mods are activated and that the load o
 1. Use the following settings:
 
     {{%expand "Expand to show" %}}
-![LOD4](/dreadsskyrimbuild_v2/images/LOD4.png)
-![LOD8](/dreadsskyrimbuild_v2/images/LOD8.png)
-![LOD16](/dreadsskyrimbuild_v2/images/LOD16.png)
-![LOD32](/dreadsskyrimbuild_v2/images/LOD32.png)
+![LOD4](/dreadsskyrimbuild/images/LOD4.png)
+![LOD8](/dreadsskyrimbuild/images/LOD8.png)
+![LOD16](/dreadsskyrimbuild/images/LOD16.png)
+![LOD32](/dreadsskyrimbuild/images/LOD32.png)
    .{{% /expand%}}
 
 1. Click *Generate* to run the process. This will take ~50 minutes. 
