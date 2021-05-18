@@ -1,0 +1,64 @@
+<section id="themes">
+    <h3>Themes</h3>
+    <ul>
+        <li>
+    <a class="padding">
+        <i class="fas fa-adjust fa-fw"></i>
+        <div class="select-style">
+            <select id="select-theme"></select>
+            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 width="255px" height="255px" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255;" xml:space="preserve">
+          <g>
+            <g id="arrow-drop-down">
+              <polygon points="0,63.75 127.5,191.25 255,63.75 		" />
+            </g>
+          </g>
+        </svg>
+        </div>
+    </a>
+        </li>
+    </ul>
+</section>
+
+<script>
+    // All themes
+    let themes = ["STEP", "Light"]; // first in list is default
+
+    // Function to remove all themes
+    let removeThemes = function() {
+        for (let i = 0; i < themes.length; i++) {
+            document.body.classList.remove(themes[i]);
+        }
+    }
+
+    // selector
+    let selector = document.getElementById("select-theme");
+
+    // add options
+    for (let i = 0; i < themes.length; i++) {
+
+        let newOption = new Option(themes[i], themes[i]);
+        selector.options.add(newOption);
+    }
+
+    selector.addEventListener("change", function() {
+        removeThemes();
+        document.body.classList.add(selector.value);
+        localStorage.setItem("theme", selector.value);
+
+    }, false);
+
+    //Check Storage. Keep user preference on page reload
+    let themeLocalstorage = localStorage.getItem("theme");
+    if (themeLocalstorage != null) {
+        // theme found in localstorage!
+        document.body.classList.add(themeLocalstorage);
+        selector.value = themeLocalstorage;
+    } else {
+        // no theme found, set default
+        if (themes && themes.length > 0)
+            document.body.classList.add(themes[0]);
+            selector.value = themes[0];
+    }
+
+</script>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Characters on Dread&#39;s Skyrim Build</title>
+    <link>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/new-characters/</link>
+    <description>Recent content in New Characters on Dread&#39;s Skyrim Build</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/new-characters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enemies</title>
+      <link>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/new-characters/enemies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/new-characters/enemies/</guid>
+      <description>Arena - An Encounter Zone Overhaul Get the mod   Deadly Dragons Get the mod   Install the main file, choose Loremonger version. Do not choose any optionals.
+Install the patches. In the patches installer, choose:
+ Diverse Dragons and Splendor Dragons Loremonger  Do not use the Wyrmstooth patch, a patch is provided in the guide&amp;rsquo;s patches.
+Diverse Dragons Collection SE Get the mod   OBIS SE - Organized Bandits In Skyrim Special Edition Get the mod   Install main file and OBIS SE Patrols addon.</description>
+    </item>
+    
+    <item>
+      <title>Neutral</title>
+      <link>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/new-characters/neutral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/new-characters/neutral/</guid>
+      <description>DIVERSE SKYRIM SSE Get the mod   Immersive College NPCs Get the mod   Use the default settings in the installer.
+Interesting NPCs SE Get the mod   Install BSA version and the hotfix. Install the following optional files:
+ Interesting NPCs SE - Alternative Locations - Flagged ESL Interesting NPCs SE - Cutting Room Floor SSE Patch Interesting NPCs SE - Don&amp;rsquo;t Call Me Dragonborn Interesting NPCs SE - Karthwasten Patch Interesting NPCs SE - Kynesgrove Patch Interesting NPCs SE - AI Overhaul SSE Patch  Interesting NPCs (3DNPC) character Zora Fairchild&amp;rsquo;s voice boosted Get the mod   </description>
+    </item>
+    
+    <item>
+      <title>Allies</title>
+      <link>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/new-characters/allies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreadflopp.github.io/dreadsskyrimbuild_v2/mod-installation/new-characters/allies/</guid>
+      <description>Lucien - Fully Voiced Follower Get the mod   Install main file and patches for Moon and Star and Moonpath to Elsweyr.
+INIGO Get the mod   Nether&amp;rsquo;s Follower Framework Get the mod   Choose the default settings in the installer.</description>
+    </item>
+    
+  </channel>
+</rss>
