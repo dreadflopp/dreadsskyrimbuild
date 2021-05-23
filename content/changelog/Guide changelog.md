@@ -19,6 +19,10 @@ description = "This page lists all changes done to the guide itself."
 #### Foundation, 
 * Majestic Mountain (install instructions updated to install LOD generation textures and to merge them with the main mod)
 
+#### Models & Textures
+* Bellyaches Animal and Creature Pack SSE (updated install instructions)
+* Dragonbone Mastery - Weapons Retexture (updated install instructions)
+
 #### Post installation
 * DynDOLOD instructions updated:    
     * Updated to reflect changes to how Majestic Mountains is installed

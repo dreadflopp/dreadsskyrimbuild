@@ -102,7 +102,7 @@ Recommended install options:
 	* Chicken: Brown
 	* Dog: HD Default
 	* Dragonfly: Select Nothing
-	* Deer: Select Nothing
+	* Deer: Deer replacers
 	* Fox (Red): Red
 	* Fox (Arctic): Arctic
 	* Frostbite Spider (Brown): None
@@ -208,8 +208,11 @@ Use with or without engravings and install with the following recommended option
 
 * Main weapon textures: Darker bone
 * Arrow options: New style arrows
-* Scabbard style: Shorter scabbard
-* Short scabbard texture options: Plain scabbard
+* Scabbard style: Full Length scabbard
+* Full Sized Scabbard Texture Options: Traditional Design
+* Full Sized Scabbard Mesh Optional: Transparent Meshes 
+
+**The installer for this mod contains an error, which Mod Organizer will let you know during the installation. This can be safely ignored.**
 
 ### DRAUGR
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/5848" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
