@@ -6,13 +6,18 @@ description = "This page lists all changes done to the guide itself."
 
 ## 2021-05-23
 
+### Removed
+
+#### Models & Textures
+* aMidianBorn book of silence *Creatures* (removed optional file from *aMidianBorn book of silence*.)
+
+#### LOD Generation Textures
+* Majestic Mountain LOD generation textures (are installed with main mod instead)
+
 ### Updated
 
 #### Foundation, 
-* Majestic Mountain install instructions updated to install LOD generation textures and to merge them with the main mod
-
-#### LOD Generation Textures
-* Majestic Mountain LOD generation textures removed (are installed with main mod instead)
+* Majestic Mountain (install instructions updated to install LOD generation textures and to merge them with the main mod)
 
 #### Post installation
 * DynDOLOD instructions updated:    

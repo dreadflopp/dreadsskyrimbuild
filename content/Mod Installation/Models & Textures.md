@@ -30,10 +30,6 @@ Download and install the optional files:
     * Blades: Blades
     * Falmer: Falmer
 
-* aMidianBorn book of silence_Creatures
-    * Custom
-        * Chaurus
-
 * aMidianBorn book of silence_DRAGONBORN DLC
     * Custom
         * Nordic Carved Armor: Black Fur
