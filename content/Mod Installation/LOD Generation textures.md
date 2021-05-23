@@ -12,19 +12,6 @@ Install *LODGEN Textures for v3*.
 
 **Do not merge with the Cathedral landscapes main file that was installed in the Foundational Mods section.** 
 
-### Majestic Mountains - Cathedral Concept LOD generation textures
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/11052" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install *Lod Pack for DynDoLod (all versions)* under the Optional Files section. 
-
-**Do not merge with the Majestic Mountains main file that was installed in the Foundational Mods section.** 
-
-Install using the following instructions:
-
-**LOD installer**
-
-* LOD Textures: Choose LOD Textures that matches the main version.
-
 ### SSE-Terrain-Tamriel
 {{% button href="https://forum.step-project.com/topic/13451-xlodgen-terrain-lod-beta-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal/" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 

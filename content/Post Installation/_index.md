@@ -98,7 +98,7 @@ Deactivate the following mods:
 * Cathedral landscapes LOD generation textures
 * SSE-Terrain-Tamriel
 
-### Run TextGen
+### TextGen
 
 1. Run TexGen from the MO2 executable drop-down list.
 1. Keep the default output location and and choose one of the following two options:
@@ -120,20 +120,11 @@ Deactivate the following mods:
 1. Right click any mod in Mod Organizer 2 and choose *All Mods/Refresh*.
 1. Ensure the TexGen_Output mod is active (checked).
 
-### Run DynDOLOD
+### DynDOLOD
 
 1. Open the root DynDOLOD folder (i.e., ..\Modding\Tools\DynDOLOD\).
 1. Open the DynDOLOD_SSE.ini file (i.e., ..\DynDOLOD\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini)
 1. Set *TreeLOD=0*
-1. Set *TreeFullFallBack=0*. 
-1. Open the DynDOLOD_SSE_childworldlod_Tamriel.txt file (i.e., ..\DynDOLOD\Edit Scripts\DynDOLOD\DynDOLOD_SSE_childworldlod_Tamriel.txt)
-1. Add the following lines:
-    ````
-    JKs Skyrim.esp;00023840;MrkCWextTowerPlatform01
-    JKs Skyrim.esp;00001FA9;MrkCWextTowerPlatform01
-    JKs Skyrim.esp;00002033;MrkCWextTowerPlatform01
-    JKs Skyrim.esp;00001FE3;MrkCWextTowerPlatform01
-    ````
 1. Run DynDOLOD from the MO2 executable drop-down list.
 1. Select all worldspaces except the *Midwood Isle* and *Lastendell* worldspaces.
 1. Ensure that the following options are ticked:
@@ -153,10 +144,6 @@ Deactivate the following mods:
 1. Ensure the DynDOLOD esm and esp files are checked in the right pane.
 1. Sort with LOOT.
 1. Ensure DynDOLOD.esp is the last plugin in the load order.
-
-Deactivate the following mods:
-
-* Majestic Mountains - Cathedral Concept LOD generation textures
 
 ### xLODGen - Occlusion
 
