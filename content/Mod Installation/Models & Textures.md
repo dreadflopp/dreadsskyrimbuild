@@ -367,15 +367,6 @@ Recommendation: 2K
 
 Recommendation: 1K
 
-### Greatsword Sheaths and Scabbards Redux SE
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/325" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install options:
-
-* Meshes Type: Meshes - Thin
-* Sheath/Scabbard Type: Small - Default Textures
-* Skyforge Weapons: Select Nothing
-
 ### HAGRAVEN
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/7679" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 

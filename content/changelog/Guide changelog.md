@@ -10,6 +10,7 @@ description = "This page lists all changes done to the guide itself."
 
 #### Models & Textures
 * aMidianBorn book of silence *Creatures* (removed optional file from *aMidianBorn book of silence*.)
+* Greatsword Sheaths and Scabbards Redux SE
 
 #### LOD Generation Textures
 * Majestic Mountain LOD generation textures (are installed with main mod instead)
