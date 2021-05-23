@@ -23,7 +23,7 @@ description = "This page lists all changes done to the guide itself."
 
 ### Updated
 
-#### Foundation, 
+#### Foundation
 
 * Majestic Mountain (install instructions updated to install LOD generation textures and to merge them with the main mod)
 
