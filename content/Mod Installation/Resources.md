@@ -33,3 +33,18 @@ Download and install *JContainers SE*
 ### SkyUI
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/12604" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+### SSE Engine Fixes (skse64 plugin)
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/17230" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+1. Download and install *(Part 1) Engine*
+1. Download *(Part 2) Engine Fixes - skse64 Preloader and TBB Lib*.
+1. Extract the contents of the second archive to the root Skyrim SE directory (i.e. ..\Steam\SteamApps\Common\Skyrim Special Edition\) 
+Once installed open *EngineFixes.toml* change the following value:
+
+```
+[Patches]
+WaterflowSpeed = 16.0
+```
+
+Leave the remainder of the settings at their defaults, unless the changes are known and desired.
+

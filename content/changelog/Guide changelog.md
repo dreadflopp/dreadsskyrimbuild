@@ -6,25 +6,34 @@ description = "This page lists all changes done to the guide itself."
 
 ## 2021-05-23
 
+### Moved
+
+* SSE Engine Fixes (moved from *Fixes* to *Resources*)
+
 ### Removed
 
 #### Models & Textures
+
 * aMidianBorn book of silence *Creatures* (removed optional file from *aMidianBorn book of silence*.)
 * Greatsword Sheaths and Scabbards Redux SE
 
 #### LOD Generation Textures
+
 * Majestic Mountain LOD generation textures (are installed with main mod instead)
 
 ### Updated
 
 #### Foundation, 
+
 * Majestic Mountain (install instructions updated to install LOD generation textures and to merge them with the main mod)
 
 #### Models & Textures
+
 * Bellyaches Animal and Creature Pack SSE (updated install instructions)
 * Dragonbone Mastery - Weapons Retexture (updated install instructions)
 
 #### Post installation
+
 * DynDOLOD instructions updated:    
     * Updated to reflect changes to how Majestic Mountains is installed
     * Removed redundant custom ini-settings.
