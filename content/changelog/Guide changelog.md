@@ -4,6 +4,14 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
+## 2021-05-24
+
+### Added
+
+#### Items
+
+* Royal Armory Tweaks and Fixes
+
 ## 2021-05-23
 
 ### Moved

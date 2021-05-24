@@ -94,6 +94,11 @@ Install the main file and the hotfix. In the installer, 2K is recommended.
 ### Royal Armory - New Artifacts
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/6994" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+### Royal Armory Tweaks and Fixes
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/26398" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+Download and install *Royal Armory Tweaks*
+
 ### Ruin's Edge
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/12792" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
