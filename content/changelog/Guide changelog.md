@@ -12,6 +12,9 @@ description = "This page lists all changes done to the guide itself."
 
 * Royal Armory Tweaks and Fixes
 
+#### Locations
+* Stendarr Rising - The Hall of the Vigilant Rebuild
+
 ## 2021-05-23
 
 ### Moved

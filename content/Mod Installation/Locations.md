@@ -211,6 +211,9 @@ Install patches forInstall main file and patches for:
 ### Smooth Shores
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/10624" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+### Stendarr Rising - The Hall of the Vigilant Rebuild
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/49346" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
 ### Tactical Valtheim SSE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/9101" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
