@@ -214,6 +214,8 @@ Install patches forInstall main file and patches for:
 ### Stendarr Rising - The Hall of the Vigilant Rebuild
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/49346" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+Install the main file and the *Cutting Room Floor* patch.
+
 ### Tactical Valtheim SSE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/9101" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
