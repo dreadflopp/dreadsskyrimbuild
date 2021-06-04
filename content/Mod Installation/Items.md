@@ -72,10 +72,10 @@ In the patch installer, choose *CBBE Bodyslide HDT*.
 
 ## Weapons
 
-### Animated Armoury - New Weapons with animations SSE Version
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/15394" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+### Animated Armoury - DAR Version - New Weapons with animations
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35978" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Download and install the optional file *Animated Armoury - Plugin Levled List Version* and the update file. After installation, delete NewArmoury.bsa and NewArmoury.bsl.
+Download and install the main file.
 
 ### Artifacts - The Tournament of the ten Bloods
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/15264" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

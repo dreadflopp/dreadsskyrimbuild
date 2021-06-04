@@ -4,6 +4,20 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
+## 2021-06-04
+
+### Added
+
+#### Items
+
+* Animated Armoury - DAR Version - New Weapons with animations
+
+### Removed
+
+#### Items
+
+* Animated Armoury - New Weapons with animations
+
 ## 2021-05-24
 
 ### Added
@@ -13,6 +27,7 @@ description = "This page lists all changes done to the guide itself."
 * Royal Armory Tweaks and Fixes
 
 #### Locations
+
 * Stendarr Rising - The Hall of the Vigilant Rebuild
 
 ## 2021-05-23
