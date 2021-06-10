@@ -34,7 +34,9 @@ Download and install the main file. In the installer, choose the following:
     * JK's The Drunken Huntsman
     * JK's New Gnisis Cornerclub
     * JK's Palace of the Kings
+    * JK's Pawned Prawn
     * JK's Radiant Ramient
+    * JK's Radiant Raiment
     * JK's Sadri's Used Wares
     * Jk's Sleeping Giant Inn
     * JK's Warmaiden
@@ -53,6 +55,7 @@ Download and install the main file. In the installer, choose the following:
     * 3DNPC
     * AI Overhaul SSE
     * Helgen Reborn
+    * Elgrims Elixirs - The Brotherhood of Old
 * JK's Belethor's General Goods
     * AI Overhaul SSE
 * JK's Bits and Pieces
@@ -74,15 +77,24 @@ Download and install the main file. In the installer, choose the following:
     * Relationship Dialogue Overhaul
 * JK's The Drunken Huntsman
     * Unofficial Skyrim Special Edition Patch
+* JK's Elgrims Elixirs
+    * Cutting Room Floor
+    * SPO
+    * Bee and Barb - The Brotherhood of Old
 * JK's New Gnisis Cornerclub
     * 3DNPC
 * JK's Palace of the Kings
     * Cloaks
     * Skyrim Project Optimization
     * USSEP
+* JK's Pawned Prawn
+    * SPO
 * JK's Radiant Ramient
     * 3DNPC
     * Cloaks
+    * USSEP
+* JK's Ragged Flagon
+    * AI Overhaul
     * USSEP
 * JK's Sadri's Used Wares
     * 3DNPC

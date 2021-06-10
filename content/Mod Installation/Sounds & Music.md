@@ -38,6 +38,8 @@ Recommendation: *Realistic Wolf Howls more barks than howls*
 ### Thundering Shouts (SE)
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/14352" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+Download and install the main file *Thundering Shouts*.
+
 	
 ### Ultra Realistic Bow Shoot Sounds
 {{% button href="https://www.nexusmods.com/skyrim/mods/27208" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

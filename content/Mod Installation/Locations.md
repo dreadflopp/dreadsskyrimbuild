@@ -152,8 +152,13 @@ Install the main file and the optional file.
 ### JK's Palace of the Kings
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/48902" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+### JK's The Pawned Prawn
+
 ### JK's Radiant Raiment
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/44858" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+### JK's The Ragged Flagon
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/50765" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ### JK's Sadris Used Wares
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/47942" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
