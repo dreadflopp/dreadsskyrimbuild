@@ -4,6 +4,21 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
+## 2021-06-10
+
+### Added
+
+#### Locations
+
+* JK's The Ragged Flagon
+* JK's The Pawned Prawn
+
+### Updated
+
+#### Patches
+
+* JK's Interiors Patch Collection
+
 ## 2021-06-04
 
 ### Added
