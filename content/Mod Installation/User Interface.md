@@ -43,6 +43,9 @@ Choose the light master version.
 ### Simple Werewolf Favourite Howls Menu
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35736" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+### SkyUI Weapons Pack SE
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/37231" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
 ### Smaller Vanilla Cursors SE
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/20617" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 

@@ -4,6 +4,25 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
+## 2021-06-23
+
+### Added
+
+#### Items
+
+* Skyrim Spear Mechanic SE
+* Animated Heavy Armory
+
+#### User Interface
+
+* SkyUI Weapons Pack SE
+
+### Removed
+
+####
+
+* Heavy Armory
+
 ## 2021-06-10
 
 ### Added

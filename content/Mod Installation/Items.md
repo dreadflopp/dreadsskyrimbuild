@@ -85,8 +85,10 @@ Install the main file and the hotfix. In the installer, 2K is recommended.
 ### Faction Crossbows SE
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/4047" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-### Heavy Armory - New Weapons
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/6308" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+### Skyrim Spear Mechanic SE
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/25146" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+Download and install the main file.
 
 ### Oblivion Artifact Pack SE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/10644" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -109,5 +111,33 @@ Download and install *Royal Armory Tweaks*
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/3334" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Install main file
+
+### Animated Heavy Armory - DAR version with animations and patches
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/6308" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+Install the main file using the following options:
+
+* Heavy Armory version: Heavy Armory - Lite (or full version, or none if you prefer that)
+* Animations:
+    * Animations for Quarterstaff (only if you use the ful version)
+    * Animations for Shortspears
+    * Animations for Half Pikes and Tridents
+* Mod Selection:
+    * Animated Armoury
+    * Dawnguard Arsenal
+    * Immersive Dayspring Pass
+    * Mysticism
+    * Skyrim Spear Mechanic
+    * Unofficial Skyrim Special Edition Patch
+    * Ars Metallica
+* Perks Desciptions: Install perk descriptions for Adamant
+* Tweaks: Install balance tweaks
+* Javelin disabler: Install Javelin disabler
+* High-Level Loot Rarified: Yes
+* Do you want to install level list patches?: Yes
+
+{{% notice info %}}
+This mod provides several patches used by the guide. Run the installer and select all relevant options if you use any of the following mods: Ars Metallica, Animated Armoury, Dawnguard Arsenal, High-Level Loot Rarified, Mysticism, Skyrim Spear Mechanic or Immersive Dawnguard Dayspring Pass.
+{{% /notice %}}
 
 
