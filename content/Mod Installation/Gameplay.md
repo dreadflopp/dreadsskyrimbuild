@@ -143,7 +143,19 @@ Install the main file.
 ### High-Level Loot Rarified
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/10821" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Install the main file. Select everything in the installer.
+Install the main file using the following options:
+
+* High-Level Loot Rarified Core
+*  High-Level Loot Rarified Addons
+    *  High-Level Loot Rarified - Animated Armoury Addon
+    *  High-Level Loot Rarified - OBIS Addon
+    *  High-Level Loot Rarified - Skyrim Spear Mechanic Addon
+    *  High-Level Loot Rarified - Heavy Armory Lite Addon
+ * High-Level Loot Rarified Patches
+    * Ars Metallica
+     * High-Level Loot Rarified - Animated Armoury Addon
+     *  High-Level Loot Rarified - Heavy Armory Lite Addon
+     *  High-Level Loot Rarified - Skyrim Spear Mechanic Addon
 
 ### Hunters Not Bandits
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/1547" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

@@ -19,9 +19,21 @@ description = "This page lists all changes done to the guide itself."
 
 ### Removed
 
-####
+#### Items
 
 * Heavy Armory
+
+### Updated
+
+#### Patches
+
+* JK's Interiors Patch Collection
+  Updated install options
+
+#### Gameplay 
+
+* High-Level Loot Rarified
+  Updated install options
 
 ## 2021-06-10
 

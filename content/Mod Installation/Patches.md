@@ -32,11 +32,12 @@ Download and install the main file. In the installer, choose the following:
     * JK's Candlehearth Hall
     * JK's Dragonreach
     * JK's The Drunken Huntsman
+    * JK's Elgrims Elixirs
     * JK's New Gnisis Cornerclub
     * JK's Palace of the Kings
     * JK's Pawned Prawn
     * JK's Radiant Ramient
-    * JK's Radiant Raiment
+    * JK's Ragged Flagon
     * JK's Sadri's Used Wares
     * Jk's Sleeping Giant Inn
     * JK's Warmaiden
