@@ -3,6 +3,41 @@ title = "Guide changelog"
 weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
+## 2021-07-10
+
+### Added
+
+#### Animations
+
+* Immersive Interactions - Animated Actions
+
+#### Fixes
+
+* Mfg Fix
+
+#### Gameplay
+
+* Improvement Names Customized SSE
+* Apothecary - An Alchemy Overhaul
+
+### Removed
+
+#### Gameplay
+
+* Crafting Skills Revamped
+  Conflict with *Apothecary - An Alchemy Overhaul*  and upcoming mods from SimonMagus616
+
+### Updated
+
+#### Locations
+
+* Stendarr Rising - The Hall of the Vigilant Rebuild
+  Updated install instructions.
+
+#### Gameplay
+
+* Adamant - A Perk Overhaul
+  Updated install instructions.
 
 ## 2021-06-23
 

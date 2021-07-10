@@ -219,7 +219,7 @@ Install patches forInstall main file and patches for:
 ### Stendarr Rising - The Hall of the Vigilant Rebuild
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/49346" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Install the main file and the *Cutting Room Floor* patch.
+Install the main file. In the installer, choose patches for *Cutting Room Floor* and 'Immersive Horses*.
 
 ### Tactical Valtheim SSE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/9101" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

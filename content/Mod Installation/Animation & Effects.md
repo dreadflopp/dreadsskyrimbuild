@@ -45,8 +45,13 @@ In the installer choose:
 ### Blocking Animation Pack SSE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/4352" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-### Dual Wield Improved Animation SSE
+### Dual Wield Improved Animation SSEImmersive Interactions - Animated Actions
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/5012" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+### Immersive Interactions - Animated Actions
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/47670" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+Adds third person animations for several interactions. If you find anyone annoying, like an animation that plays everytime you pick something up, it can be turned of in the MCM settings menu ingame.
 
 ### No heavy muscular walk and idle by Scot
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/4746" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

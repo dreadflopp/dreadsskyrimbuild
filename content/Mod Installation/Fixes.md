@@ -60,8 +60,11 @@ Save and close the file.
 
 Choose *Eyes Mesh Fix* in the installer.
 
-### Markarth - A Reflective Experience
+### Markarth - A Reflective ExperienceMfg Fix
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/43864" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+### Mfg Fix
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/11669" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ### Modern Brawl Bug Fix
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/1473" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

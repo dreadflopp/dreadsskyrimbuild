@@ -14,6 +14,9 @@ weight = 230
 
 Download and install the Main File.
 
+### Improvement Names Customized SSE
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/27776" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
 ## AI & Combat
 
 ### AI Overhaul SSE
@@ -101,16 +104,14 @@ Do not activate this mod yet. Wait until you have left the first cell of Alterna
 
 ## Crafting
 
-### Ars Metallica - Smithing Enhancement
+### Apothecary - An Alchemy Overhaul
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/321" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-### Crafting Skills Revamped
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/25418" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+Install the main file and patches for *Rustic Animated Potions* and *Wyrmstooth*.
 
-Download the main file and the following optional files:
 
-* Crafting Skills Revamped - Skyrim Skill Uncapper Patch
-* Potions Restore Over Time
+### Ars Metallica - Smithing Enhancement
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/321" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ### More Craftable Equipment
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/44666" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -324,7 +325,7 @@ In the installer, choose the optional file *Dark Brotherhood Forever to Miscella
 ### Adamant - A Perk Overhaul
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/30191" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Install the main file and the optional *Adamant Addons - Shrines and Amulets*.
+Install the main file and the optionals files *Adamant Addons - Shrines and Amulets* and *Adamant - Plus Ten Smithing*.
 
 If this mod is updated midgame from 3.x to 4.x, use [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) to reclaim your perk points before updating. Ish's Respec Mod adds a potion to vendors that can be added to your inventory using the console. Use the [help](https://skyrimcommands.com/command/help) command in the console to find the item id for the potion, *Draught of Fate Unwound*. Use the [additem](https://skyrimcommands.com/command/additem) command to add the potion to your inventory.
 
