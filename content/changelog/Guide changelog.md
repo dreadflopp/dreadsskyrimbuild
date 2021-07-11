@@ -3,6 +3,31 @@ title = "Guide changelog"
 weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
+
+## 2021-07-11
+
+### Added
+
+#### Gameplay
+
+* Dragon Aspect Overhaul
+
+#### New Characters
+
+* Dragon War - A Dragon Overhaul
+
+### Removed
+
+#### New Characters
+
+* Deadly Dragons
+* Diverse Dragons Collection SE
+* Splendor – Dragon Variants SE
+
+#### Gameplay
+
+* Thunderchild - Epic Shouts and Immersion
+
 ## 2021-07-10
 
 ### Added

@@ -212,6 +212,22 @@ Install the main file and the following optional files:
 
 ## Magic & Abilities
 
+### Dragon Aspect Overhaul
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/29941" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+In the installer, choose the shouts version. Do not install any patches.
+
+### Forceful Tongue - Shouts Overhaul
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/36276" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+In the installer, choose to install patches for:
+
+* Adamant
+* Audio Overhaul for Skyrim
+* Deadly Spell Impacts
+* Timing is Everything
+* Wyrmstooth
+
 ### Mundus - A Standing Stone Overhaul
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/33411" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
@@ -219,9 +235,6 @@ Install the main file and the following optional files:
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/27839" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Install the main file
-
-### Thunderchild - Epic Shouts and Immersion
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/1460" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ## Quests & Stories
 

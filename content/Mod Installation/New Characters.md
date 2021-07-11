@@ -9,27 +9,19 @@ weight = 230
 ### Arena - An Encounter Zone Overhaul
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/33487" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-### Deadly Dragons
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/23723" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+### Dragon War - A Dragon Overhaul
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/51310" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Install the main file, choose Loremonger version. Do not choose any optionals.
+Install the main file and the optional file. In the installer, choose patches for:
 
-Install the patches. In the patches installer, choose: 
-
-* Diverse Dragons and Splendor Dragons Loremonger
-
-Do not use the Wyrmstooth patch, a patch is provided in the guide's patches.
-
-### Diverse Dragons Collection SE
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/695" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+* Audio Overhaul Skyrim
+* Deadly Spell Impacts
+* Wyrmstooth
 
 ### OBIS SE - Organized Bandits In Skyrim Special Edition
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/4145" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Install main file and OBIS SE Patrols addon.
-
-### Splendor – Dragon Variants SE
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/9670" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ## Neutral
 
