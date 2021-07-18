@@ -180,7 +180,6 @@ Install main file and the following patches:
 * JK's Skyrim - Carriage and Ferry Travel (CFTO) Patch
 * JK's Skyrim - Clockwork Patch
 * JK's Skyrim - Realistic Water Two Patch
-* JK's Skyrim - Thunderchild Patch
 
 ### JK's Sleeping Giant Inn
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35806" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
