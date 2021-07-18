@@ -4,6 +4,14 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
+## 2021-07-18
+
+### Updated
+
+#### Locations
+
+* JK's Skyrim - Updated install instructions
+
 ## 2021-07-11
 
 ### Added
