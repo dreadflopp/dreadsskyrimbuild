@@ -146,6 +146,9 @@ Install the main file and *JK's The Bannered Mare - Skyrim Project Optimization 
 
 Install the main file and the optional file.
 
+### JK's Mistveil Keep
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/52462" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
 ### JK's New Gnisis Cornerclub
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/48293" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
@@ -159,11 +162,6 @@ Install the main file and the optional file.
 
 ### JK's The Ragged Flagon
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/50765" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-### JK's Sadris Used Wares
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/47942" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install the main file
 
 ### JK's Sadris Used Wares
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/47942" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -185,6 +183,9 @@ Install main file and the following patches:
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35806" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Install the main file
+
+### JK's The Temple of Mara
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/52724" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ### JK's White Phial
 

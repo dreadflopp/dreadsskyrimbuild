@@ -4,6 +4,22 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
+## 2021-07-27
+
+### Added
+
+#### Locations
+
+* JK's Mistveil Keep
+* JK's The Temple of Mara
+
+### Updated
+
+#### Patches
+
+* JK's Interiors Patch Collection
+  Updated install options
+
 ## 2021-07-18
 
 ### Updated

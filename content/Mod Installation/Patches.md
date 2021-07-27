@@ -33,6 +33,7 @@ Download and install the main file. In the installer, choose the following:
     * JK's Dragonreach
     * JK's The Drunken Huntsman
     * JK's Elgrims Elixirs
+    * JK's Mistveil Keep
     * JK's New Gnisis Cornerclub
     * JK's Palace of the Kings
     * JK's Pawned Prawn
@@ -40,6 +41,7 @@ Download and install the main file. In the installer, choose the following:
     * JK's Ragged Flagon
     * JK's Sadri's Used Wares
     * Jk's Sleeping Giant Inn
+    * JK's Temple of Mara
     * JK's Warmaiden
     * JK's White Phial
     * JK's Winking Skeever
@@ -82,6 +84,9 @@ Download and install the main file. In the installer, choose the following:
     * Cutting Room Floor
     * SPO
     * Bee and Barb - The Brotherhood of Old
+* JK's Mistveil Keep
+    * 3DNPC
+    * AI Overhaul
 * JK's New Gnisis Cornerclub
     * 3DNPC
 * JK's Palace of the Kings
@@ -103,6 +108,12 @@ Download and install the main file. In the installer, choose the following:
     * AI Overhaul SSE
     * Interesting NPCs
     * Skyrim Project Optimization
+* JK's Temple of Mara
+    * 3DNPC
+    * AI Overhaul
+    * Oblivion Artifacts
+    * SPO
+    * The Brotherhood of Old
 * JK's Warmaiden
     * Select nothing
 * JK's White Phial
