@@ -12,6 +12,8 @@ description = "This page lists all changes done to the guide itself."
 
 * Blade and Blunt
   Changed install instructions to include *Blade and Blunt - Timed Block Module*.
+* More Craftable Equipment
+  Updated install instructions
 
 #### Character Appearance
 
@@ -24,11 +26,6 @@ description = "This page lists all changes done to the guide itself."
 * Tempered Skins for Females
   Updated install instructions
 * Wayfarer's Coat
-  Updated install instructions
-
-#### Gameplay
-
-* More Craftable Equipment
   Updated install instructions
 
 #### Items
