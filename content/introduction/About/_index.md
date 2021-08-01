@@ -19,7 +19,7 @@ The mods featured in this guide are chosen to be immersive and realistic. Realis
 -   New weapon types with custom animations.
 -   More adventures with new quests and new lands to visit.
 -   Overhauled cities, towns and villages.
--   Expanded character creation with the CBBE female body with realistic presets.
+-   Expanded character creation, optionally with the CBBE female body with realistic presets.
 -   Overhauled character leveling and skill system:
     -   Overhauled skill trees with new perks.
     -   Overhauled magic with new spells.

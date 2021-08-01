@@ -116,7 +116,7 @@ Install the main file and patches for *Rustic Animated Potions* and *Wyrmstooth*
 ### More Craftable Equipment
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/44666" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Download and install the main file and the optional CBBE file.
+Download and install the main file. CBBE users installs the optional CBBE file.
 
 ## Economy & Item Balance
 

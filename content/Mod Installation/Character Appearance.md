@@ -13,6 +13,10 @@ weight = 80
 The Nexus page linked above contains NSFW images. No nude options will be used in this guide. If they are forced by the mod, other mods will override the options.
 {{% /notice %}}
 
+{{% notice note %}}
+Some armor textures featured in the guide is not compatible with CBBE. Using CBBE is not recommended for this reason but is still supported for those users that want to use it. The reason CBBE was featured in the first place was to allow us to use skin textures for female characters made specifically for CBBE/UNP, where CBBE was chosen because it could be built to look vanilla:ish. The textures that is currently used exists for vanilla as well, which means that CBBE is no longer nescessary.
+{{% /notice %}}
+
 The CBBE body is chosen because of its versatility. Recommended presets makes the body look realistic or vanilla-ish.*
 
 Install the main file and the optional file ‘CBBE ESL-flagged .esp’.
@@ -29,6 +33,10 @@ In the main installer, choose:
 
 {{% notice warning %}}
 The Nexus page linked above contains NSFW images. No nude options will be used in this guide. If they are forced by the mod, other mods will override the options.
+{{% /notice %}}
+
+{{% notice note %}}
+Only for CBBE users
 {{% /notice %}}
 
 Install the main file
@@ -60,7 +68,8 @@ The mod is not packaged correctly for mod managers. To install:
 
 1. Open the archive in MO for installation.
 1. Expand FAR-Forgotten Argonian Roots
-1. Expand Females → CBBE Body → MAIN texture
+1. Expand Females → Default body → MAIN texture
+	* CBBE user chooses *CBBE Body* instead of *Default Body*.
 1. Drag and drop the Textures folder onto < data > above
 1. Expand Males → Better Males body
 1. Drag and drop the Textures folder onto < data > above
@@ -123,8 +132,14 @@ Skip this mod if you do not intend to use horns or antlers for your character.
 The Nexus page linked above contains NSFW images. No nude options will be used in this guide. If they are forced by the mod, other mods will override the options.
 {{% /notice %}}
 
+**Non-CBBE users:**
+Download and install *Tempered Skins for Females UNP and Vanilla*
+In the installer you can choose what you like but the following is recommended: A7, B9, C2, D2, E2, F - Nothing.
+
+**CBBE users:**
+
 Download and install *Tempered Skins for Females CBBE*.
-In the installer you can choose what you like but the following is recommended: B9, C2, D2, E2, F1.
+In the installer you can choose what you like but the following is recommended: B9, C2, D2, E2, F - Nothing.
 
 ### Tempered Skins for Males
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/7902" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

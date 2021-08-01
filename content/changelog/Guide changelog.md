@@ -13,6 +13,40 @@ description = "This page lists all changes done to the guide itself."
 * Blade and Blunt
   Changed install instructions to include *Blade and Blunt - Timed Block Module*.
 
+#### Character Appearance
+
+* Caliente’s Beautiful Bodies Enhancer -CBBE-
+  Added note - CBBE is no longer recommended
+* CBBE Presets Compendium
+  Added note.
+* Far Argonian Roots
+  Updated install instructions
+* Tempered Skins for Females
+  Updated install instructions
+* Wayfarer's Coat
+  Updated install instructions
+
+#### Gameplay
+
+* More Craftable Equipment
+  Updated install instructions
+
+#### Items
+
+* Black Sacrament Armor
+  Updated install instructions
+* Lustmord Vampire Armor
+  Updated install instructions
+
+#### Models & Textures
+
+* Frankly HD Dawnguard Armor and Weapons
+  Updated install instructions
+* Frankly HD Miraak
+  Updated install instructions
+* Frankly HD Nightingale Armor and Weapons
+  Updated install instructions
+
 ### Added
 
 #### Foundation

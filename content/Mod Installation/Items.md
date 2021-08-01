@@ -12,7 +12,7 @@ weight = 210
 ### Black Sacrament Armor 
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/16687" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Install *Black Sacrament Armour - SSE CBBE BodySlide* and *Black Sacrament Armour - ESL version*. Delete the file *BlackSacramentArmor.esp* (keep *BlackSacramentArmor.esl*).
+Install *Black Sacrament Armour SSE*. CBBE users installs *Black Sacrament Armour - SSE CBBE BodySlide* instead. Install *Black Sacrament Armour - ESL version*. Delete the file *BlackSacramentArmor.esp* (keep *BlackSacramentArmor.esl*).
 Some optional tweaks are available in this guides patches to make this armor less overpowered. Even so, it is still possible to combine armor pieces in a way that should be considered cheating since it applies armor rating twice, for example using a barette, a hood and a cowl. Each piece applies an armor rating equivalent to a helmet but can be used together.
 
 ### Cloaks of Skyrim
@@ -43,7 +43,7 @@ Install both the main and the optional file.
 ### Lustmord Vampire Armor
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/16676" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Install the main file.
+Install the optional file *Lustmord Vampire Armour SSE*. CBBE users installs the main file instead.
 
 ### Scout Armor SE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/18910" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -63,7 +63,7 @@ This mod needs to be cleaned using the standard cleaning procedure.
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/10194" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Install main file and *Wayfarers Coat CBBE UUNP Bodyslide HDT Patch(Installer)*.
-In the patch installer, choose *CBBE Bodyslide HDT*.
+In the patch installer, choose *CBBE Bodyslide HDT* if you use CBBE.
 
 ## Weapons
 

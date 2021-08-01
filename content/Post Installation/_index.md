@@ -14,7 +14,7 @@ Before moving on, sort the load order with LOOT. Take note of any plugins that L
 
 ## Generating body and armor meshes
 
-Build body and armor meshes using BodySlide following these instructions:
+CBBE users need to build body and armor meshes using BodySlide following these instructions:
 
 1. Run BodySlide x64 through Mod Organizer
 1. In the *Outfit/Body* dropdown menu, choose *CBBE NeverNude* (this will also prevent NSFW images).

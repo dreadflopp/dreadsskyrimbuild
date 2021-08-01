@@ -317,7 +317,7 @@ Recommendation: 2K
 
 Recommendation: 2K
 
-Install the CBBE patch.
+Install the CBBE patch if you use CBBE.
 
 ### Frankly HD Imperial Armor and Weapons
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/20848" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -336,14 +336,14 @@ Recommendation: 2K
 
 Recommendation: 2K
 
-Install the CBBE patch.
+Install the CBBE patch if you use CBBE
 
 ### Frankly HD Nightingale Armor and Weapons
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/18560" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Recommendation: 2K
 
-Install the CBBE patch and the Better-Shaped Weapons patch.
+Install the CBBE patch if you use CBBE. Install the Better-Shaped Weapons patch.
 
 ### Frankly HD Shrouded Armor
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/18785" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
