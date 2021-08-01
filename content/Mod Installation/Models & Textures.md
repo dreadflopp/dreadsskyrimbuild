@@ -583,28 +583,6 @@ Choose one main file, *Rallys Hooks and Saws* is recommended. Fomod recommendati
 
 Recommendation: Rallys Instruments HQ - Version 2 Vanilla Lute
 
-### Rally's Raven Rock
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/34292" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-In the installer, choose 2K for Raven Rock and 512x512 for LODs.
-
-### Rally's Riekling Outposts
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/34899" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
-### Rally's Solstheim Plants
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35081" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install a main file, a LODs file and a *Rally's Creep Cluster for Skyrim* file.
-Recommendation: 2K and 512 for LODs
-
-### Rally's Tel Mithryn
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35437" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install a main file and a LODs file.
-Recommendation: 2K and 512 for LODs
-
 ### Real Wood Textures - Farmhouses (SE)
 {{% button href="http://www.nexusmods.com/skyrim/mods/50595" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 

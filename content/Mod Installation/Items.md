@@ -32,11 +32,6 @@ You need to use both *Cloaks of Skyrim* and *Winter is coming* if you want new c
 ### Cloaks of the Nords
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/8886" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-### Common Clothes and Armors
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/21305" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install the main file
-
 ### Dawnguard Arsenal SSE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/25094" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 

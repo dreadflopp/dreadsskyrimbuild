@@ -129,10 +129,10 @@ In the installer, choose:
 * Full Install, Brown Tundra
 * Blended Roads
 
-### Rally's Solstheim Landscapes
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35590" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+### Rally's Solstheim AIO
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/36893" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Recommendation: 2K
+In the installer, choose 2K and for LODs 512 for everything. For colors, choose default.
 
 ### RUSTIC CLOTHING - Special Edition
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/4703" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

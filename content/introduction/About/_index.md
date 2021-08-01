@@ -10,7 +10,7 @@ The mods featured in this guide are chosen to be immersive and realistic. Realis
 
 ## What to expect
 
--   Minimalistic survival mode with Creation Club Survival Mode or the mod The Frozen North which uses the same minimalistic and non-intrusive HUD icons as the Creation Club Survival Mode does.
+-   Minimalistic survival mode with Creation Club Survival Mode, SunHelm or The Frozen North which both uses the same minimalistic and non-intrusive HUD icons as the Creation Club Survival Mode does.
 -   HD textures for landscapes, structures and buildings that keeps the vanilla look and feel.
 -   HD textures for clutter, armors, weapons other items.
 -   Bigger trees for a truly immersive forest.

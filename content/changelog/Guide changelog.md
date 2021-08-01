@@ -4,6 +4,43 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
+## 2021-08-01
+
+### Modified
+
+#### Gameplay
+
+* Blade and Blunt
+  Changed install instructions to include *Blade and Blunt - Timed Block Module*.
+
+### Added
+
+#### Foundation
+
+* Rally's Solstheim AIO
+
+### Removed
+
+#### Foundation
+
+* Rally's Solstheim Landscapes
+
+#### Models & Textures
+
+* Rally's Tel Mithryn
+* Rally's Riekling Outposts
+* Rally's Raven Rock
+* Rally's Solstheim Plants
+
+#### Items
+
+* Common Clothes and Armors
+  Removed because of the quality of a few of the armors. Some armors has clipping or aren't fitted against the characters body, meaning that skin will show through the armors or clothes
+
+  {{% notice warning %}}
+  Do not uninstall midgame since this will strip characters of their clothes from this mod. Keep it in your game or start a new one.
+  {{% /notice %}}
+
 ## 2021-07-27
 
 ### Added

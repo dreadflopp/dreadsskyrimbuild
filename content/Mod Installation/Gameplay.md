@@ -33,7 +33,7 @@ Install the main file and the nemesis patch. When installing the nemesis patch, 
 ### Blade and Blunt
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/34549" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Install the main file.
+Install the main file and the *Blade and Blunt - Timed Block Module* file.
 
 ### Faction Fixes SE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/24336" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -57,7 +57,7 @@ Choose *Realistic AI Detection 2 SE - Lite*
 ## Camping & Survival
 
 {{% notice info %}}
-There are two supported survival mods to choose from. If you want to use a survival mod, choose either the official *Creation Club Survival Mode* or the minimalistic mod *The Frozen North*.
+There are three supported survival mods to choose from. If you want to use a survival mod, choose either the official *Creation Club Survival Mode*, SunHelm or the minimalistic mod *The Frozen North*. In the future the guide may change to only support SunHelm. The author of SunHelm has stated that the next major version will probably require a new game.
 {{% /notice %}}
 
 ### Camping Lite (Special Edition)
