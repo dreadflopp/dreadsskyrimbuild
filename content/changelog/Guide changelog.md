@@ -4,7 +4,7 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
-## 2021-08-01
+## 2021-08-02
 
 ### Modified
 
@@ -30,10 +30,12 @@ description = "This page lists all changes done to the guide itself."
 
 #### Items
 
+* Armor Mesh Fixes SE
+  Updated install instructions
 * Black Sacrament Armor
   Updated install instructions
 * Lustmord Vampire Armor
-  Updated install instructions
+  Updated install instructions  
 
 #### Models & Textures
 
@@ -44,11 +46,22 @@ description = "This page lists all changes done to the guide itself."
 * Frankly HD Nightingale Armor and Weapons
   Updated install instructions
 
+
 ### Added
+
+#### Models & Textures - Weapons and Armors
+  * New category added
+  * Stalhrim Refrozen
+  * Open Face Guard Helmets
+  * aMidianBorn Matching Armory - Glass Armor and Weapons
 
 #### Foundation
 
 * Rally's Solstheim AIO
+
+### Moved
+ * moved to the new category *Models & Textures - Weapons and Armors*
+  * 
 
 ### Removed
 
@@ -58,6 +71,10 @@ description = "This page lists all changes done to the guide itself."
 
 #### Models & Textures
 
+* aMidianBorn Book of Silence SE
+* Dragonbone Mastery - Weapons Retexture
+* Improved closefaced helmets (SE)
+* LeanWolf's Better-Shaped Weapons
 * Rally's Tel Mithryn
 * Rally's Riekling Outposts
 * Rally's Raven Rock
