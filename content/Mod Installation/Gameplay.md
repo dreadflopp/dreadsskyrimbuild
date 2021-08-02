@@ -57,7 +57,7 @@ Choose *Realistic AI Detection 2 SE - Lite*
 ## Camping & Survival
 
 {{% notice info %}}
-There are three supported survival mods to choose from. If you want to use a survival mod, choose either the official *Creation Club Survival Mode*, SunHelm or the minimalistic mod *The Frozen North*. In the future the guide may change to only support SunHelm. The author of SunHelm has stated that the next major version will probably require a new game.
+There are three supported survival mods to choose from. If you want to use a survival mod, choose either the official *Creation Club Survival Mode*, *SunHelm* or the minimalistic mod *The Frozen North*. In the future the guide may change to only support SunHelm. The author of SunHelm has stated that the next major version will probably require a new game if you previously have had Sunhelm installed.
 {{% /notice %}}
 
 ### Camping Lite (Special Edition)
@@ -82,6 +82,24 @@ Only use this mod if you use Creation Club Survival Mode.
 {{% /notice %}}
 
 Install the main file, the english version.
+
+### SunHelm Survival and needs
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/39414" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+In the installer, choose the following options:
+
+* Extra Options
+   * Universal Water Patch
+* Platform
+   * Skyrim SE
+* Patches
+   * CFTO Patch
+   * OCW
+   * Easy Wheel
+   * Wyrmstooth Region Patch
+
+### Survival Control Panel
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/41891" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ## Classes & Races
 

@@ -59,6 +59,11 @@ description = "This page lists all changes done to the guide itself."
 
 * Rally's Solstheim AIO
 
+#### Gameplay
+
+* SunHelm Survival and needs
+* Survival Control Panel
+
 ### Moved
  * moved to the new category *Models & Textures - Weapons and Armors*
   * 

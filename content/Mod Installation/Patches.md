@@ -162,6 +162,23 @@ Install the following patches:
 * Landscape Fixes for Grass Mods Patch
 * Wyrmstooth Patch
 
+### SunHelm Survival - Compatibility Patches
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/41335" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+Install using the following options:
+
+* Interesting NPCs
+* Clockwork
+* Wyrmstooth
+* Moonpath to Elwesy
+* The Forgotten City
+* INIGO
+
+**Do not install the Falskaar patch**, it is handled by the guide's patches.
+
+### Sunhelm Survival Patch for Hearthfire Extended
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/46283" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
 ### Unofficial Moonpath to Elsweyr Patch
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/15882" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
