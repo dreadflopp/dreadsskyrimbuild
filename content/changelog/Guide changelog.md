@@ -49,6 +49,10 @@ description = "This page lists all changes done to the guide itself."
 
 ### Added
 
+#### Resources
+
+  * powerofthree's Papyrus Extender
+
 #### Models & Textures - Weapons and Armors
   * New category added
   * Stalhrim Refrozen
@@ -63,6 +67,11 @@ description = "This page lists all changes done to the guide itself."
 
 * SunHelm Survival and needs
 * Survival Control Panel
+
+#### Patches
+
+* Sunhelm Survival Patch for Hearthfire Extended
+* SunHelm Survival - Compatibility Patches
 
 ### Moved
  * moved to the new category *Models & Textures - Weapons and Armors*
