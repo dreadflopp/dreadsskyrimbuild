@@ -23,6 +23,19 @@ Do not install the main file, install the esl optional file only. If you play wi
 ### Font Overhaul - Natural Typefaces for Skyrim
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/2880" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+Use the following install instructions:
+
+* Patches
+    * None
+* Interface
+    * Default or choose what you like
+* Book
+    * Default or choose what you like
+* Handwritten
+    * Default or choose what you like
+* Realistic Print
+    * Install
+
 ### Immersive HUD - iHUD Special Edition
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/12440" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 

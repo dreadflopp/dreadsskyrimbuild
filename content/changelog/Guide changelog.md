@@ -6,7 +6,7 @@ description = "This page lists all changes done to the guide itself."
 
 ## 2021-08-02
 
-### Modified
+### Updated
 
 #### Gameplay
 
@@ -45,6 +45,10 @@ description = "This page lists all changes done to the guide itself."
   Updated install instructions
 * Frankly HD Nightingale Armor and Weapons
   Updated install instructions
+
+#### User Interface
+  * Font Overhaul - Natural Typefaces for Skyrim
+    Updated install instructions
 
 
 ### Added
