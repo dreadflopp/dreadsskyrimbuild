@@ -4,7 +4,7 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
-## 2021-08-02
+## 2021-08-04
 
 ### Updated
 
@@ -79,7 +79,17 @@ description = "This page lists all changes done to the guide itself."
 
 ### Moved
  * moved to the new category *Models & Textures - Weapons and Armors*
-  * 
+  * RUSTIC ARMOR and WEAPONS SE HQ
+  * Armor Mesh Fixes SE
+  * aMidianBorn stormcloak officer armour
+  * Dragon Masks Retextured SE (4K - 2K) HQ
+  * Elemental Staffs SE
+  * Masque of Argonian Vile SSE
+  * Frankly HD Miraak
+  * Frankly HD Nightingale Armor and Weapons
+  * Frankly HD Shrouded Armor
+  * Frankly HD Thieves Guild Armors HQ
+  * Improved Weapon Impact EFFECTS Correct Metal SE
 
 ### Removed
 
