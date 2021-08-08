@@ -44,6 +44,10 @@ After following the *system setup guide* you will have a clean installation of S
 * xEdit (also xrefered to as *TES5Edit* or *SSEEdit*)
 * xLODGen (also refered to as *TES5LODGen* or *SSELODGen*)
 
+{{% notice note %}}
+When you install DynDOLOD, choose *DynDOLOD 3.00*. None of the main files are needed at this point. 
+{{% /notice %}}
+
 ## Additional tools installations and setups
 
 Complete the system setup by installing the following tools:
@@ -147,7 +151,7 @@ Repeat the steps for the executables listed below, filling in the appropriate da
     * Executable: DynDOLOD64.exe
     * Arguments:
         * -SSE
-        * -o:C:\Modding\Tools\Mod Organizer 2\mods\DynDOLOD_Output
+        * -o:c:\Modding\Tools\Mod Organizer 2\mods\DynDOLOD_Output
 * LOOT
     * Title: LOOT
     * Executable: LOOT.exe
@@ -164,7 +168,7 @@ Repeat the steps for the executables listed below, filling in the appropriate da
     * Executable: xLODGen64.exe
     * Arguments:
         * -sse
-        * -o:"C:\Modding\xLODGen\xLODGen_Output\"
+        * -o:"c:\Modding\xLODGen\xLODGen_Output\"
 * SSEEdit Quick Auto Clean (installed with SSEEdit)
     * Title: SSEEdit Quick Auto Clean
     * Executable: SSEEditQuickAutoClean.exe
@@ -174,10 +178,10 @@ Repeat the steps for the executables listed below, filling in the appropriate da
     * Executable: TexGen64.exe
     * Arguments:
         * -SSE
-        * -o:C:\Modding\Tools\Mod Organizer 2\mods\TextGen_Output
+        * -o:c:\Modding\Tools\Mod Organizer 2\mods\TextGen_Output
 
 {{% notice info %}}
-Note that you need to check that the paths in the given arguments are valid for your install paths.
+Note that you need to check that the paths in the given arguments are valid for your install paths. It has been reported that that the paths breaks if you use a uppercase drive letter, make sure to write it with lowercase.
 {{% /notice %}}
 
 ## BethINI Setup
@@ -197,7 +201,7 @@ BethINI needs to be run for the current profile in Mord Organizer and ran to est
   * For Instance users the profile will be stored in the user's AppData folder (i.e. C:\Users\UserName\AppData\Local\ModOrganizer\SkyrimSE\profiles)
 1. At this time BethINI should restart to grab the correct INI's. Continue to customization.
 
-### Customiztion
+### Customization
 
 Close Mod Organizer and run BethINI if it isn't open already.
 
@@ -220,14 +224,20 @@ Use the following settings:
 * Borderless: *On*
 * FXAA: *Off*
 * VSync: *On*
-* Lock Frame Rate: *On*
+* Lock Frame Rate: *Off*
 
 **View Distance tab**
 
 * Object Fade: 25.0
-* Actor Fade: 20.0
-* Item Fade: 15.0
+* Actor Fade: 12.0
+* Item Fade: 4.5
 * Grass Fade: 18000
 * Light Fade: 50000
+
+**Custom Tab**
+
+* Section: Decals
+    * Setting: uMaxSkinDecalPerActor
+        * Change to *100*.
 
 On the *Basic* tab, click the **Save and Exit** button.

@@ -162,20 +162,21 @@ Recommendation: 2K
 
 Recommendation: red 1k
 
-### Embers HD
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/14368" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+### Embers XD
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/37085" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Install using the following options:
+Download *Embers XD Lite Beta*. Install using the following options:
 
-* Main Component
-	* Embers HD 2k
-
-* Embers HD Fireplaces Add-On Component
-	* Fireplaces Add-On
-
-* Embers HD Add-On Components
-	* Forges Add-On
-	* Lave Crater Add-On
+* Effect Quality: High Quality
+* Customization: Embers XD Flames (orange/red)
+* Plugin format: ESP
+* Fire Magic Add-On: Install
+* Forges Add-On: Install
+* Torches Add-On: Install
+* Lava Craters Add-On: Install
+* Compatibility patches
+	* JK's Dragonreach
+	* JK's Skyrim
 
 ### Enhanced Blood Textures SE
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/2357" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -209,9 +210,6 @@ The vivid version is recommended
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/17224" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Recommendation: 2K
-
-### Fire Halo Remover
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/28381" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ### GIANT (SE)
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/6179" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -630,8 +628,12 @@ Choose the 2k versions of textures, big and small stars. Hide or delete all file
 * Textures/sky/skyrimconstellations02.dds
 * Textures/sky/skystars.dds
 
-### Stalhrim
+### Stalhrim Source
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/9447" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+{{% notice note %}}
+Do not install if you use *Stalhrim Refrozen* from the section *Models & Textures - Weapons and Armors*.
+{{% /notice %}}
 
 Recommendation: 2K
 

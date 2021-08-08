@@ -4,9 +4,22 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
-## 2021-08-04
+## 2021-08-08
 
 ### Updated
+
+#### Preparations
+
+* Updated BethINI settings
+
+#### Foundation
+
+* DynDOLOD Resources
+  Updated to v3. Please note that the url has changed.
+* Majestic Mountains
+  Updated install instructions
+* Cathedral landscapes
+  Updated install instructions
 
 #### Gameplay
 
@@ -46,22 +59,59 @@ description = "This page lists all changes done to the guide itself."
 * Frankly HD Nightingale Armor and Weapons
   Updated install instructions
 
+#### Lighting and Weather
+
+* Relighting Skyrim - SSE
+  Updated install instructions
+* Cathedral Weather
+* Added note about Azurite Weathers
+
 #### User Interface
-  * Font Overhaul - Natural Typefaces for Skyrim
+
+* Font Overhaul - Natural Typefaces for Skyrim
     Updated install instructions
+
+#### Fixes
+
+* 1st Person Candlelight Fix
+  Updated install instructions
+
+#### Post Installation
+
+* Updated instructions for LOOT.
+* Updated xLODGEN settings
+* Updated TerxtGen instructions
+* Updated DynDOLOD instructions
+
 
 
 ### Added
 
+#### Extenders
+  
+* No Grass In Objects
+
 #### Resources
 
-  * powerofthree's Papyrus Extender
+* powerofthree's Papyrus Extender
+
+#### Models & Textures
+
+* Embers XD 
+
+#### Models & Textures - Grass
+
+* New category added
+* Folkvangr - Grass and Landscape Overhaul
+* Northern Shores SE
+
 
 #### Models & Textures - Weapons and Armors
-  * New category added
-  * Stalhrim Refrozen
-  * Open Face Guard Helmets
-  * aMidianBorn Matching Armory - Glass Armor and Weapons
+
+* New category added
+* Stalhrim Refrozen
+* Open Face Guard Helmets
+* aMidianBorn Matching Armory - Glass Armor and Weapons
 
 #### Foundation
 
@@ -72,13 +122,26 @@ description = "This page lists all changes done to the guide itself."
 * SunHelm Survival and needs
 * Survival Control Panel
 
+#### Lighting and Weather
+
+* Dynamic Volumetric Lighting and Sun Shadows
+* Shadows Of Sunlight - In Small Exterior World Spaces
+* Window Shadows
+
 #### Patches
 
 * Sunhelm Survival Patch for Hearthfire Extended
 * SunHelm Survival - Compatibility Patches
 
+#### ENB
+
+* ENB Light
+* Deadly Spell Impacts Transparency Fix for ENB
+
 ### Moved
- * moved to the new category *Models & Textures - Weapons and Armors*
+
+#### Models & Textures - Weapons and Armors
+ * moved to the new category *Models & Textures - Weapons and Armors* from *Models & Textures*.
   * RUSTIC ARMOR and WEAPONS SE HQ
   * Armor Mesh Fixes SE
   * aMidianBorn stormcloak officer armour
@@ -91,6 +154,15 @@ description = "This page lists all changes done to the guide itself."
   * Frankly HD Thieves Guild Armors HQ
   * Improved Weapon Impact EFFECTS Correct Metal SE
 
+#### Extenders
+  * Moved from the category *Resources* to *Extenders*
+    * .NET Script Framework
+
+#### LOD Generation Textures
+
+* Cathedral landscapes LOD generation textures
+  Moved and merged with main Cathedral Landscapes in the Foundation category,
+
 ### Removed
 
 #### Foundation
@@ -101,6 +173,8 @@ description = "This page lists all changes done to the guide itself."
 
 * aMidianBorn Book of Silence SE
 * Dragonbone Mastery - Weapons Retexture
+* Embers HD
+* Fire Halo Remover
 * Improved closefaced helmets (SE)
 * LeanWolf's Better-Shaped Weapons
 * Rally's Tel Mithryn

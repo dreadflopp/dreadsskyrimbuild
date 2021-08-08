@@ -53,7 +53,7 @@ Choose the light master version.
 ### RaceMenu
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/19080" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-### Simple Werewolf Favourite Howls Menu
+### Simple Werewolf Favorite Howls Menu
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35736" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ### SkyUI Weapons Pack SE

@@ -31,7 +31,7 @@ The mods featured in this guide are chosen to be immersive and realistic. Realis
 
 ## This guide is made to be easy to install
 
--   No custom LOOT rules, every conflict is resolved by the patches. Run LOOT and you are done.
+-   Almost no custom LOOT rules, every conflict is resolved by the patches.
 -   No Bashed patch. All level list conflicts are resolved by the provided patches.
 -   No merging of plugins. Every patch is esl-flagged to make sure the plugin limit count is not reached.
 -   Advanced FOMOD installer for the patches. No need for you to choose which patches to use, the installer does the work for you.

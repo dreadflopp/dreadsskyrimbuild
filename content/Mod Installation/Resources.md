@@ -3,8 +3,7 @@ title = "Resources"
 weight = 20
 +++
 
-### .NET Script Framework
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/21294" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
 
 ### Address Library for SKSE Plugins
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/32444" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

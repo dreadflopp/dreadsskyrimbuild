@@ -206,13 +206,17 @@ Install the main file and the optional file *JK's The Winking Skeever_alterate s
 ### Landscape Fixes For Grass Mods
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/9005" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Install patches forInstall main file and patches for:
+Install main file and patches for:
 
 * Helgen Reborn
 * Moon And Star
 * JK's Skyrim - Towns
 * Patches for Arthmoor's Town add-ons - everything except *Provincial Courier Service*
 
+### The Grass Must Grow
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/45266" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+Download and install *The Grass Must Grow* and *The Grass Must Grow Landscape Add On*.
 ### Smooth Shores
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/10624" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
