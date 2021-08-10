@@ -130,10 +130,6 @@ Install the main file. In the installer, choose:
 * Full Install, Brown Tundra
 * Blended Roads
 
-Install *LODGEN Textures for v3*.
-
-**Do not merge LODGEN textures with the main file. Install it as a separate mod so that may be deactivated after LOD generation.** 
-
 ### Rally's Solstheim AIO
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/36893" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 

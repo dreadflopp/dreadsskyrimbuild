@@ -72,41 +72,6 @@ In the patch installer, choose *CBBE Bodyslide HDT* if you use CBBE.
 
 Download and install the main file.
 
-### Artifacts - The Tournament of the ten Bloods
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/15264" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install the main file and the hotfix. In the installer, 2K is recommended.
-
-### Faction Crossbows SE
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/4047" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-### Skyrim Spear Mechanic SE
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/25146" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Download and install the main file.
-
-### Oblivion Artifact Pack SE
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/10644" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-### Royal Armory - New Artifacts
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/6994" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-### Royal Armory Tweaks and Fixes
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/26398" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Download and install *Royal Armory Tweaks*
-
-### Ruin's Edge
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/12792" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-### The Staff Of Sheogorath
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/14468" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-### Unique Uniques SE
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/3334" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install main file
-
 ### Animated Heavy Armory - DAR version with animations and patches
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/6308" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
@@ -134,5 +99,54 @@ Install the main file using the following options:
 {{% notice info %}}
 This mod provides several patches used by the guide. Run the installer and select all relevant options if you use any of the following mods: Ars Metallica, Animated Armoury, Dawnguard Arsenal, High-Level Loot Rarified, Mysticism, Skyrim Spear Mechanic or Immersive Dawnguard Dayspring Pass.
 {{% /notice %}}
+
+### Artifacts - The Tournament of the ten Bloods
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/15264" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+Install the main file and the hotfix. In the installer, 2K is recommended.
+
+### Faction Crossbows SE
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/4047" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+### Skyrim Spear Mechanic SE
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/25146" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+Download and install the main file.
+
+### Oblivion Artifact Pack SE
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/10644" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+### Reliquary of Myth - Artifact Overhaul
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/31612" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+In the installer, choose: 
+
+* Main installation
+    * Reliquary of Myth - Artifact Overhaul
+    * ROM - Dragon Priest Masks Pack
+* Patches
+    * ROM - CRF patch
+    * ROM - Daedric vVices patch
+    * ROM - Unique Uniques patch
+
+### Royal Armory - New Artifacts
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/6994" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+### Royal Armory Tweaks and Fixes
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/26398" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+Download and install *Royal Armory Tweaks*
+
+### Ruin's Edge
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/12792" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+### Unique Uniques SE
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/3334" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+Install main file
+
+
+
+
 
 

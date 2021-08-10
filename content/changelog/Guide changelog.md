@@ -4,21 +4,20 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
-## 2021-08-08
+## 2021-08-10
 
 ### Updated
 
 #### Preparations
 
 * Updated BethINI settings
+* Updated arguments for Textgen and DynDOLOD
 
 #### Foundation
 
 * DynDOLOD Resources
   Updated to v3. Please note that the url has changed.
 * Majestic Mountains
-  Updated install instructions
-* Cathedral landscapes
   Updated install instructions
 
 #### Gameplay
@@ -80,7 +79,7 @@ description = "This page lists all changes done to the guide itself."
 
 * Updated instructions for LOOT.
 * Updated xLODGEN settings
-* Updated TerxtGen instructions
+* Updated TextGen instructions
 * Updated DynDOLOD instructions
 
 
@@ -121,12 +120,19 @@ description = "This page lists all changes done to the guide itself."
 
 * SunHelm Survival and needs
 * Survival Control Panel
+* SmoothCam
+* True Directional Movement - Modernized Third Person Gameplay
+
+#### Items
+
+* Reliquary of Myth - Artifact Overhaul
 
 #### Lighting and Weather
 
 * Dynamic Volumetric Lighting and Sun Shadows
 * Shadows Of Sunlight - In Small Exterior World Spaces
 * Window Shadows
+* ENB Light
 
 #### Patches
 
@@ -135,13 +141,13 @@ description = "This page lists all changes done to the guide itself."
 
 #### ENB
 
-* ENB Light
 * Deadly Spell Impacts Transparency Fix for ENB
 
 ### Moved
 
 #### Models & Textures - Weapons and Armors
- * moved to the new category *Models & Textures - Weapons and Armors* from *Models & Textures*.
+
+ * Moved the following mod to the new category *Models & Textures - Weapons and Armors* from *Models & Textures*.
   * RUSTIC ARMOR and WEAPONS SE HQ
   * Armor Mesh Fixes SE
   * aMidianBorn stormcloak officer armour
@@ -155,19 +161,31 @@ description = "This page lists all changes done to the guide itself."
   * Improved Weapon Impact EFFECTS Correct Metal SE
 
 #### Extenders
+
   * Moved from the category *Resources* to *Extenders*
     * .NET Script Framework
 
 #### LOD Generation Textures
 
-* Cathedral landscapes LOD generation textures
-  Moved and merged with main Cathedral Landscapes in the Foundation category,
+* Move category up in the install order
+
+#### Lighting and Weather
+
+* Moved category up in the install order.
 
 ### Removed
 
 #### Foundation
 
 * Rally's Solstheim Landscapes
+
+#### Gameplay
+
+* Archery Gameplay Overhaul SE
+
+#### Animations & Effects
+
+* 360 Walk and Run Plus
 
 #### Models & Textures
 
@@ -190,6 +208,8 @@ description = "This page lists all changes done to the guide itself."
   {{% notice warning %}}
   Do not uninstall midgame since this will strip characters of their clothes from this mod. Keep it in your game or start a new one.
   {{% /notice %}}
+
+* The Staff Of Sheogorath
 
 ## 2021-07-27
 

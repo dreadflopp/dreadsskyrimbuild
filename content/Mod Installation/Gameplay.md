@@ -17,15 +17,16 @@ Download and install the Main File.
 ### Improvement Names Customized SSE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/27776" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+### SmoothCam
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/41252" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+### True Directional Movement - Modernized Third Person Gameplay
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/51614" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
 ## AI & Combat
 
 ### AI Overhaul SSE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/21654" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-### Archery Gameplay Overhaul SE
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/24296" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install the main file and the nemesis patch. When installing the nemesis patch, make sure to set the folder named *Data* as data directory. Mod Organizer will show a warning saying that there is *no game data on top level*. Ignore this warning.
 
 ### Better Stealth AI for Followers
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/17600" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

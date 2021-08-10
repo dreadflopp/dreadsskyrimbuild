@@ -168,7 +168,7 @@ Recommendation: red 1k
 Download *Embers XD Lite Beta*. Install using the following options:
 
 * Effect Quality: High Quality
-* Customization: Embers XD Flames (orange/red)
+* Customization: Embers XD Flames (yellow/orange)
 * Plugin format: ESP
 * Fire Magic Add-On: Install
 * Forges Add-On: Install

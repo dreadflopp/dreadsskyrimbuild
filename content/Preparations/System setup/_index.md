@@ -151,7 +151,7 @@ Repeat the steps for the executables listed below, filling in the appropriate da
     * Executable: DynDOLOD64.exe
     * Arguments:
         * -SSE
-        * -o:c:\Modding\Tools\Mod Organizer 2\mods\DynDOLOD_Output
+        * -o:c:\Modding\Tools\DynDOLOD_Output
 * LOOT
     * Title: LOOT
     * Executable: LOOT.exe
@@ -178,10 +178,10 @@ Repeat the steps for the executables listed below, filling in the appropriate da
     * Executable: TexGen64.exe
     * Arguments:
         * -SSE
-        * -o:c:\Modding\Tools\Mod Organizer 2\mods\TextGen_Output
+        * -o:c:\Modding\Tools\TextGen_Output
 
 {{% notice info %}}
-Note that you need to check that the paths in the given arguments are valid for your install paths. It has been reported that that the paths breaks if you use a uppercase drive letter, make sure to write it with lowercase.
+Note that you need to check that the paths in the given arguments are valid for your install paths.
 {{% /notice %}}
 
 ## BethINI Setup

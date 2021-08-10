@@ -1,10 +1,10 @@
 +++
 title = "Lighting & Weather"
-weight = 250
+weight = 45
 +++
 
 {{% notice note %}}
-An alternative to Cathedral Weathers is Azurite Weathers by the same mod author. It works without any patches, just skip Cathedral Weather and add Azurite Weathers instead.
+An alternative to Cathedral Weathers is Azurite Weathers by the same mod author. It works without any patches, just skip Cathedral Weather and use Azurite Weathers instead.
 {{% /notice %}}
 
 ### Cathedral Weathers and Seasons
@@ -48,3 +48,26 @@ In the installer, choose *Skyrim Special Edition* and the latest game version. C
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/37831" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Download and install the main file
+
+### ENB Light
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/22574" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+{{% notice note %}}
+Skip this mod if you are not using an ENB. For more info, check the ENB section.
+{{% /notice %}}
+
+Download and install *ENB Light 0.98 Alpha 2*. Install using the following options:
+
+* Base install option
+    * Base - Candlelight, Magelight, vanilla torch
+* Wall-mounted torches
+    * Vanilla (SMIM)
+* Additional options
+    * Everything except *candles* and *Magic Hand Effects*.
+* Dawnbreaker
+    * No ENB Light Dawnbreaker
+* Dawnbreaker - DSR (Left hand)
+    * NO Dawnbreaker DSR option
+* Patches
+    * Choose nothing
+

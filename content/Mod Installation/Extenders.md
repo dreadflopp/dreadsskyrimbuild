@@ -52,11 +52,18 @@ Once complete, the SKSE mod's folder structure should look like this:
 ### No Grass In Objects
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/42161" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Download and install *Grass Control v6*. After the mod is installed, som settings needs to be changed.
+Download and install *Grass Control v6*. 
+
+{{% notice note %}}
+For a performance cost, grass may be rendered further away and precached. Precached grass allows for DynDOLOD to create grass LODs. This comes at a performance cost. Players that are concerned about performance of the game do not need to make any further alterations to this mod.
+{{% /notice %}}
+
+After the mod is installed, some settings needs to be changed.
 
 Double click on the mod in the MO left pane.
 Click on the "Text Files" tab to modify GrassControl.config.txt
 Find the following settings and edit as follows:
+
 
  ```
 	UseGrassCache = True
@@ -67,6 +74,7 @@ Find the following settings and edit as follows:
 	OverwriteGrassFadeRange = 12000 (lower this value for better performance)
 	OverwriteMinGrassSize = 60 (Higher values, better performance. Lower value, more grass)
  ```
+
 
  Download *Grass Generation MO2 Plugin v1*. Extract the content to *C:/Modding/Tools/Mod Organizer/plugins* (path may need to be corrected to match your paths). Close and restart Mod Organizer.
 
