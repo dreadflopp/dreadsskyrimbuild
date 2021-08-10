@@ -90,7 +90,7 @@ Users that installed *No Grass In Objects* with the precache options should prec
 
 1. IN MO, click on the puzzle icon
 1. Choose *Precache Grass* and wait. This will start Skyrim, which will crash multiple times. This is normal. The process takes time, about 2 hours is normal.
-
+1. Move the grass files from the overwrite folder into their own mod folder.
 
 ## Generating LOD files
 
