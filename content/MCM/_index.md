@@ -7,10 +7,6 @@ weight = 70
 
 These are suggested settings. It is recommended to tweak these settings yourself.
 
-### AGO (Archery Gameplay Overhaul)
-
-* Turn off *Arm Fatigue*
-
 ### Cathedral Weather
 
 * Turn off *Configuration Spell*
