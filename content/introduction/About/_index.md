@@ -10,7 +10,7 @@ The mods featured in this guide are chosen to be immersive and realistic. Realis
 
 ## What to expect
 
--   Minimalistic survival mode with Creation Club Survival Mode or the mod The Frozen North which uses the same minimalistic and non-intrusive HUD icons as the Creation Club Survival Mode does.
+-   Minimalistic survival mode with Creation Club Survival Mode, SunHelm or The Frozen North which both uses the same minimalistic and non-intrusive HUD icons as the Creation Club Survival Mode does.
 -   HD textures for landscapes, structures and buildings that keeps the vanilla look and feel.
 -   HD textures for clutter, armors, weapons other items.
 -   Bigger trees for a truly immersive forest.
@@ -19,7 +19,7 @@ The mods featured in this guide are chosen to be immersive and realistic. Realis
 -   New weapon types with custom animations.
 -   More adventures with new quests and new lands to visit.
 -   Overhauled cities, towns and villages.
--   Expanded character creation with the CBBE female body with realistic presets.
+-   Expanded character creation, optionally with the CBBE female body with realistic presets.
 -   Overhauled character leveling and skill system:
     -   Overhauled skill trees with new perks.
     -   Overhauled magic with new spells.
@@ -31,7 +31,7 @@ The mods featured in this guide are chosen to be immersive and realistic. Realis
 
 ## This guide is made to be easy to install
 
--   No custom LOOT rules, every conflict is resolved by the patches. Run LOOT and you are done.
+-   Almost no custom LOOT rules, every conflict is resolved by the patches.
 -   No Bashed patch. All level list conflicts are resolved by the provided patches.
 -   No merging of plugins. Every patch is esl-flagged to make sure the plugin limit count is not reached.
 -   Advanced FOMOD installer for the patches. No need for you to choose which patches to use, the installer does the work for you.

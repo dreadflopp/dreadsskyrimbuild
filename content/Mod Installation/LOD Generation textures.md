@@ -1,12 +1,14 @@
 +++
 title = "LOD generation textures"
-weight = 325
+weight = 35
 +++
 
 *The mods in this section will be deactivated once LOD has been generated.*
 
 ### Cathedral landscapes LOD generation textures
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/21954" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+If you intend to use *The Grass Must Grow*, these LOD generation textures are redundant. If this is the case, do not install this mod
 
 Install *LODGEN Textures for v3*.
 

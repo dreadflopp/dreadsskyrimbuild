@@ -6,61 +6,6 @@ weight = 50
 ### Alpine Forest of Whiterun Valley
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/18866" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-### aMidianBorn Book of Silence SE
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35382" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Download and install the optional files:
-
-* aMidianBorn book of silence_ARMORS
-    * Custom
-    * Iron and baded: Iron - Vanilla Cut
-    * Steel: Steel
-    * Steel Plate: Steel Plate
-    * Leather: Leather
-    * Hide and Studded: Hide
-    * Fur: Fur
-    * Elven: Gold
-    * Dwarwen: Dwarwen
-    * Ancient Nord: Ancient Nord
-    * Orcish: Orcish
-    * Scaled: Scaled
-    * Wolf: Wolf - Grey Fur
-    * Glass: Glass - Golden
-    * Ebony - Ebony - Black
-    * Blades: Blades
-    * Falmer: Falmer
-
-* aMidianBorn book of silence_DRAGONBORN DLC
-    * Custom
-        * Nordic Carved Armor: Black Fur
-        * Bonemold Armor
-        * Acolyte Masks
-        * Ash Spawn
-        * Ash Guardians
-
-* aMidianBorn book of silence_UNIQUE ITEMS
-    * Custom:
-        * Target of the blooded
-        * Wuuthrad
-        * Savior's hide: Savior's Hide
-        * Helm of Yngol
-        * Mace of Molag Bal
-        * Mehrune's Razor
-        * Volendrung
-        * Tsun's Armor
-        * Ebony Mail: Ebony Mail - Black
-        * Staff of Magnus
-
-* aMidianBorn book of silence_WEAPONS
-    * Install all weapons
-
-**Hide the following files/folders:**
-
-* aMidianborn_Skyforge_Weapons.esp
-
-### aMidianBorn stormcloak officer armour
-{{% button href="https://www.nexusmods.com/skyrim/mods/45692" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
 ### Arctic - Frost Effects Redux
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/29817" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
@@ -71,11 +16,6 @@ Install the main file using the following options:
 * Size: x.5
 * Style: Standard
 * Plugin option: Frost mesh patch (esl-tagged)
-
-### Armor Mesh Fixes SE
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/39704" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Download and install the main file, the update file and the *Blades Helmet - aMidianBorn Patch* optional file.
 
 ### Arri's Snow Elf Ruins Retexture Special Edition
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/7292" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -184,35 +124,10 @@ Recommendation: 1K
 
 In the installer, install optionals if that is desired.
 
-### Dragon Masks Retextured SE (4K - 2K)
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/22699" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
 ### DRAGON PRIEST
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/4974" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Recommendation: 2K full option
-
-### Frankly HD Dragonbone and Dragonscale - Armor and Weapons HQ
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/25110" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
-Install both main and update file. 
-
-### Dragonbone Mastery - Weapons Retexture
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/2056" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Use with or without engravings and install with the following recommended options:
-
-* Main weapon textures: Darker bone
-* Arrow options: New style arrows
-* Scabbard style: Full Length scabbard
-* Full Sized Scabbard Texture Options: Traditional Design
-* Full Sized Scabbard Mesh Optional: Transparent Meshes 
-
-**The installer for this mod contains an error, which Mod Organizer will let you know during the installation. This can be safely ignored.**
 
 ### DRAUGR
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/5848" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -226,11 +141,6 @@ Install *DROPS v3 x512*.
 
 ### Dust Effects by HHaleyy
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/2407" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-### Elemental Staffs SE
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/5319" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Installl the main file and the optional file *Elemental Staffs SE Basic*
 
 ### ElSopa HD - Ants SE
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/26715" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -252,20 +162,21 @@ Recommendation: 2K
 
 Recommendation: red 1k
 
-### Embers HD
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/14368" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+### Embers XD
+{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/37085" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Install using the following options:
+Download *Embers XD Lite Beta*. Install using the following options:
 
-* Main Component
-	* Embers HD 2k
-
-* Embers HD Fireplaces Add-On Component
-	* Fireplaces Add-On
-
-* Embers HD Add-On Components
-	* Forges Add-On
-	* Lave Crater Add-On
+* Effect Quality: High Quality
+* Customization: Embers XD Flames (yellow/orange)
+* Plugin format: ESP
+* Fire Magic Add-On: Install
+* Forges Add-On: Install
+* Torches Add-On: Install
+* Lava Craters Add-On: Install
+* Compatibility patches
+	* JK's Dragonreach
+	* JK's Skyrim
 
 ### Enhanced Blood Textures SE
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/2357" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -297,63 +208,6 @@ The vivid version is recommended
 
 ### FALMER
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/17224" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
-### Fire Halo Remover
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/28381" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-### RUSTIC ARMOR and WEAPONS SE
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/19666" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
-### Masque of Argonian Vile SSE
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/26908" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-        
-### Frankly HD Dawnguard Armor and Weapons
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/19663" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
-Install the CBBE patch.
-
-### Frankly HD Imperial Armor and Weapons
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/20848" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
-Install the *Pants and Sleeves* patch and the *Better-Shaped Weapons* patch.
-
-### Frankly HD Masque of Clavicus Vile
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/28565" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
-### Frankly HD Miraak
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/19699" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
-Install the CBBE patch.
-
-### Frankly HD Nightingale Armor and Weapons
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/18560" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
-Install the CBBE patch and the Better-Shaped Weapons patch.
-
-### Frankly HD Shrouded Armor
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/18785" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
-Choose the color option you prefer
-
-### Frankly HD Thieves Guild Armors HQ
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/19953" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Recommendation: 2K
 
@@ -470,9 +324,6 @@ Hide the following files/folders:
 
 Recommendation: 2K alt
 
-### Improved closefaced helmets (SE)
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/824" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
 ### Improved Sparks
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/19831" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
@@ -480,9 +331,6 @@ Recommendation download and install two files:
 
 * Grindstones - 10X Sparks
 * Impact Effects - Vanilla Sparks
-
-### Improved Weapon Impact EFFECTS Correct Metal SE
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/8936" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ### Inferno - Fire Effects Redux
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/29316" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -582,28 +430,6 @@ Choose one main file, *Rallys Hooks and Saws* is recommended. Fomod recommendati
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/28193" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Recommendation: Rallys Instruments HQ - Version 2 Vanilla Lute
-
-### Rally's Raven Rock
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/34292" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-In the installer, choose 2K for Raven Rock and 512x512 for LODs.
-
-### Rally's Riekling Outposts
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/34899" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommendation: 2K
-
-### Rally's Solstheim Plants
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35081" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install a main file, a LODs file and a *Rally's Creep Cluster for Skyrim* file.
-Recommendation: 2K and 512 for LODs
-
-### Rally's Tel Mithryn
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35437" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install a main file and a LODs file.
-Recommendation: 2K and 512 for LODs
 
 ### Real Wood Textures - Farmhouses (SE)
 {{% button href="http://www.nexusmods.com/skyrim/mods/50595" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -802,8 +628,12 @@ Choose the 2k versions of textures, big and small stars. Hide or delete all file
 * Textures/sky/skyrimconstellations02.dds
 * Textures/sky/skystars.dds
 
-### Stalhrim
+### Stalhrim Source
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/9447" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+{{% notice note %}}
+Do not install if you use *Stalhrim Refrozen* from the section *Models & Textures - Weapons and Armors*.
+{{% /notice %}}
 
 Recommendation: 2K
 

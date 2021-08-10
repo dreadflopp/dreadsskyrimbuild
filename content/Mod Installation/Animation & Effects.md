@@ -4,20 +4,6 @@ weight = 40
 description = "Mods that alters or adds animations and effects to the game."
 +++
 
-### 360 Walk and Run Plus
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/7446" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-In the installer, choose:
-* Male
-    * Male: 360 + cloak
-    * Head Direction: Face towards the direction of movement
-* Female
-    * Female: 360 + cloak
-    * Head Direction: Face towards the direction of movement
-    * BBP Option: BBP Off
-* Optional Patch: Choose nothing.
-* Common: 360 swimming
-
 ### D13 Faster GET UP STAND UP Animation
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/5890" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 

@@ -6,6 +6,10 @@ weight = 90
 ### 1st Person Candlelight Fix
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/9736" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+{{% notice note %}}
+Do not install if you use *ENB Light*.
+{{% /notice %}}
+
 ### Archery Quick Shot Perk Bug Fix
 {{% button href="Archery Quick Shot Perk Bug Fix" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 

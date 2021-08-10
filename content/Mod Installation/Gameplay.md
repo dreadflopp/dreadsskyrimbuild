@@ -17,15 +17,16 @@ Download and install the Main File.
 ### Improvement Names Customized SSE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/27776" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+### SmoothCam
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/41252" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+### True Directional Movement - Modernized Third Person Gameplay
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/51614" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
 ## AI & Combat
 
 ### AI Overhaul SSE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/21654" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-### Archery Gameplay Overhaul SE
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/24296" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Install the main file and the nemesis patch. When installing the nemesis patch, make sure to set the folder named *Data* as data directory. Mod Organizer will show a warning saying that there is *no game data on top level*. Ignore this warning.
 
 ### Better Stealth AI for Followers
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/17600" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -33,7 +34,7 @@ Install the main file and the nemesis patch. When installing the nemesis patch, 
 ### Blade and Blunt
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/34549" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Install the main file.
+Install the main file and the *Blade and Blunt - Timed Block Module* file.
 
 ### Faction Fixes SE
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/24336" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -57,7 +58,7 @@ Choose *Realistic AI Detection 2 SE - Lite*
 ## Camping & Survival
 
 {{% notice info %}}
-There are two supported survival mods to choose from. If you want to use a survival mod, choose either the official *Creation Club Survival Mode* or the minimalistic mod *The Frozen North*.
+There are three supported survival mods to choose from. If you want to use a survival mod, choose either the official *Creation Club Survival Mode*, *SunHelm* or the minimalistic mod *The Frozen North*. In the future the guide may change to only support SunHelm. The author of SunHelm has stated that the next major version will probably require a new game if you previously have had Sunhelm installed.
 {{% /notice %}}
 
 ### Camping Lite (Special Edition)
@@ -82,6 +83,24 @@ Only use this mod if you use Creation Club Survival Mode.
 {{% /notice %}}
 
 Install the main file, the english version.
+
+### SunHelm Survival and needs
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/39414" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+In the installer, choose the following options:
+
+* Extra Options
+   * Universal Water Patch
+* Platform
+   * Skyrim SE
+* Patches
+   * CFTO Patch
+   * OCW
+   * Easy Wheel
+   * Wyrmstooth Region Patch
+
+### Survival Control Panel
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/41891" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ## Classes & Races
 
@@ -116,7 +135,7 @@ Install the main file and patches for *Rustic Animated Potions* and *Wyrmstooth*
 ### More Craftable Equipment
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/44666" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Download and install the main file and the optional CBBE file.
+Download and install the main file. CBBE users installs the optional CBBE file.
 
 ## Economy & Item Balance
 

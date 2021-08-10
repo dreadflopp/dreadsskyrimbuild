@@ -4,6 +4,213 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
+## 2021-08-10
+
+### Updated
+
+#### Preparations
+
+* Updated BethINI settings
+* Updated arguments for Textgen and DynDOLOD
+
+#### Foundation
+
+* DynDOLOD Resources
+  Updated to v3. Please note that the url has changed.
+* Majestic Mountains
+  Updated install instructions
+
+#### Gameplay
+
+* Blade and Blunt
+  Changed install instructions to include *Blade and Blunt - Timed Block Module*.
+* More Craftable Equipment
+  Updated install instructions
+
+#### Character Appearance
+
+* Caliente’s Beautiful Bodies Enhancer -CBBE-
+  Added note - CBBE is no longer recommended
+* CBBE Presets Compendium
+  Added note.
+* Far Argonian Roots
+  Updated install instructions
+* Tempered Skins for Females
+  Updated install instructions
+* Wayfarer's Coat
+  Updated install instructions
+
+#### Items
+
+* Armor Mesh Fixes SE
+  Updated install instructions
+* Black Sacrament Armor
+  Updated install instructions
+* Lustmord Vampire Armor
+  Updated install instructions  
+
+#### Models & Textures
+
+* Frankly HD Dawnguard Armor and Weapons
+  Updated install instructions
+* Frankly HD Miraak
+  Updated install instructions
+* Frankly HD Nightingale Armor and Weapons
+  Updated install instructions
+
+#### Lighting and Weather
+
+* Relighting Skyrim - SSE
+  Updated install instructions
+* Cathedral Weather
+* Added note about Azurite Weathers
+
+#### User Interface
+
+* Font Overhaul - Natural Typefaces for Skyrim
+    Updated install instructions
+
+#### Fixes
+
+* 1st Person Candlelight Fix
+  Updated install instructions
+
+#### Post Installation
+
+* Updated instructions for LOOT.
+* Updated xLODGEN settings
+* Updated TextGen instructions
+* Updated DynDOLOD instructions
+
+
+
+### Added
+
+#### Extenders
+  
+* No Grass In Objects
+
+#### Resources
+
+* powerofthree's Papyrus Extender
+
+#### Models & Textures
+
+* Embers XD 
+
+#### Models & Textures - Grass
+
+* New category added
+* Folkvangr - Grass and Landscape Overhaul
+* Northern Shores SE
+
+
+#### Models & Textures - Weapons and Armors
+
+* New category added
+* Stalhrim Refrozen
+* Open Face Guard Helmets
+* aMidianBorn Matching Armory - Glass Armor and Weapons
+
+#### Foundation
+
+* Rally's Solstheim AIO
+
+#### Gameplay
+
+* SunHelm Survival and needs
+* Survival Control Panel
+* SmoothCam
+* True Directional Movement - Modernized Third Person Gameplay
+
+#### Items
+
+* Reliquary of Myth - Artifact Overhaul
+
+#### Lighting and Weather
+
+* Dynamic Volumetric Lighting and Sun Shadows
+* Shadows Of Sunlight - In Small Exterior World Spaces
+* Window Shadows
+* ENB Light
+
+#### Patches
+
+* Sunhelm Survival Patch for Hearthfire Extended
+* SunHelm Survival - Compatibility Patches
+
+#### ENB
+
+* Deadly Spell Impacts Transparency Fix for ENB
+
+### Moved
+
+#### Models & Textures - Weapons and Armors
+
+ * Moved the following mod to the new category *Models & Textures - Weapons and Armors* from *Models & Textures*.
+  * RUSTIC ARMOR and WEAPONS SE HQ
+  * Armor Mesh Fixes SE
+  * aMidianBorn stormcloak officer armour
+  * Dragon Masks Retextured SE (4K - 2K) HQ
+  * Elemental Staffs SE
+  * Masque of Argonian Vile SSE
+  * Frankly HD Miraak
+  * Frankly HD Nightingale Armor and Weapons
+  * Frankly HD Shrouded Armor
+  * Frankly HD Thieves Guild Armors HQ
+  * Improved Weapon Impact EFFECTS Correct Metal SE
+
+#### Extenders
+
+  * Moved from the category *Resources* to *Extenders*
+    * .NET Script Framework
+
+#### LOD Generation Textures
+
+* Move category up in the install order
+
+#### Lighting and Weather
+
+* Moved category up in the install order.
+
+### Removed
+
+#### Foundation
+
+* Rally's Solstheim Landscapes
+
+#### Gameplay
+
+* Archery Gameplay Overhaul SE
+
+#### Animations & Effects
+
+* 360 Walk and Run Plus
+
+#### Models & Textures
+
+* aMidianBorn Book of Silence SE
+* Dragonbone Mastery - Weapons Retexture
+* Embers HD
+* Fire Halo Remover
+* Improved closefaced helmets (SE)
+* LeanWolf's Better-Shaped Weapons
+* Rally's Tel Mithryn
+* Rally's Riekling Outposts
+* Rally's Raven Rock
+* Rally's Solstheim Plants
+
+#### Items
+
+* Common Clothes and Armors
+  Removed because of the quality of a few of the armors. Some armors has clipping or aren't fitted against the characters body, meaning that skin will show through the armors or clothes
+
+  {{% notice warning %}}
+  Do not uninstall midgame since this will strip characters of their clothes from this mod. Keep it in your game or start a new one.
+  {{% /notice %}}
+
+* The Staff Of Sheogorath
+
 ## 2021-07-27
 
 ### Added

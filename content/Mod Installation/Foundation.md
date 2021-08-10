@@ -16,12 +16,13 @@ Download and install all Main Files. Merge when asked.
 
 Download and install the Special Edition PARTICLE PATCH ALL-IN-ONE INSTALLATION file. Do not install the plugin, it is not needed.
 
-### DynDOLOD Resources
-{{% button href="https://www.nexusmods.com/skyrim/mods/59721?" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+### DynDOLOD Resources 3
+{{% button href="https://www.nexusmods.com/skyrim/mods/52897?" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Download and install *DynDOLOD Resources SE*. Install using the following options:
+Download and install *DynDOLOD Resources SE 3*. Install using the following options:
 
 * Whiterun Exterior
+* Whiterun Exterior Grass
 * Solitude Exterior
 * High Hrothgar Window Glow
 * DLC2 Vvardenfell 3D Plume
@@ -114,7 +115,7 @@ Install a main file, choose the version you like the most. Lightside is the most
 * Optionals: Moss Rocks ESL Version
 * Sun Direction (choose one or none): None
 
-Install *Lod Pack for DynDoLod (all versions)* found under the Optional Files section. 
+Install *DynDoLod V 3.0 Lod pack (all versions)* found under the Optional Files section. 
 
 Install using the following instructions:
 
@@ -125,14 +126,14 @@ Install using the following instructions:
 ### Cathedral landscapes
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/21954" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-In the installer, choose:
+Install the main file. In the installer, choose:
 * Full Install, Brown Tundra
 * Blended Roads
 
-### Rally's Solstheim Landscapes
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/35590" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+### Rally's Solstheim AIO
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/36893" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Recommendation: 2K
+In the installer, choose 2K and for LODs 512 for everything. For colors, choose default.
 
 ### RUSTIC CLOTHING - Special Edition
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/4703" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

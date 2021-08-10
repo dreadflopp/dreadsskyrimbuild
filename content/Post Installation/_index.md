@@ -12,9 +12,22 @@ In Mod Organizer, move all *output data* mods and the *output data separator*, p
 
 Before moving on, sort the load order with LOOT. Take note of any plugins that LOOT reports as needing to be cleaned and perform the standard cleaning procedures on these mods. Ignore any reported missing compatibility patches. The guides patches take care of all the patching, thus eliminating the need for those additional plugins.
 
+1. Run LOOT from MO
+
+    First time you run LOOT:
+
+    1. Navigate to *Landscape Fixes For Grass Mods.esp* in the right pane. Use the filter if it is har to find.
+    1. Press the three vertical dots after *Landscape Fixes For Grass Mods.esp* and choose to edit metadata.
+    1. Click *Load After*
+    1. Scroll to the bottom and click *Add New Row*. Enter *Folkvangr - Grass and Landscape Overhaul.esp* as value. This will force LOOT to sort *Landscape Fixes For Grass Mods.esp* after *Folkvangr - Grass and Landscape Overhaul.esp*. Click on the blue save button.
+
+1. Sort the mod list by clicking on the *Sort Plugins* button.
+1. Wait, click apply and exit.
+
+
 ## Generating body and armor meshes
 
-Build body and armor meshes using BodySlide following these instructions:
+CBBE users need to build body and armor meshes using BodySlide following these instructions:
 
 1. Run BodySlide x64 through Mod Organizer
 1. In the *Outfit/Body* dropdown menu, choose *CBBE NeverNude* (this will also prevent NSFW images).
@@ -71,10 +84,18 @@ After closing SSEEdit, the patch will be in Overwrite:
 1. Close the window.
 1. Ensure the Unlimited_Bookshelves_Patch_Generator_Output mod is active (checked).
 
+## Precache grass
+
+Users that installed *No Grass In Objects* with the precache options should precache their grass now:
+
+1. IN MO, click on the puzzle icon
+1. Choose *Precache Grass* and wait. This will start Skyrim, which will crash multiple times. This is normal. The process takes time, about 2 hours is normal.
+
+
 ## Generating LOD files
 
 ### xLODGen - Terrain
-Make sure that all LOD Generation texture mods are activated and that the load order is sorted with LOOT.
+Make sure that all LOD Generation texture mods are activated. Make sure that *Cathedral Landscapes LODGEN Textures mod is activated* and that the load order is sorted with LOOT.
 
 1. Run xLODGen from the MO2 executable drop-down list.
 1. Select all worldspaces except the *Midwood Isle* and *Lastendell* worldspaces.
@@ -91,40 +112,96 @@ Make sure that all LOD Generation texture mods are activated and that the load o
 1. Click *Generate* to run the process. This will take ~50 minutes. 
 1. Once the LOD generation complete message has appeared, close xLODGen.
 
-The generated files needs to be manually moved to the output folder. Cut and paste the files from the LOD generation output folder(... \Modding\Tools\xLODGen\xLODGen_Output\) to the empty mod folder *xLODGen_Output*.
+The generated files needs to be manually moved from the output folder. Cut and paste the files from the LOD generation output folder(... \Modding\Tools\xLODGen\xLODGen_Output\) to the empty mod folder *xLODGen_Output* and activate it.
 
 Deactivate the following mods:
 
 * Cathedral landscapes LOD generation textures
 * SSE-Terrain-Tamriel
 
-### TextGen
+{{% notice note %}}
+Those running 4k resolution or higher should consider bumping up all texture sizes by doubling values shown (256 --> 512, 512 --> 1024).
+{{% /notice %}}
+
+### Modify DynDOLOD INI
+
+DunDOLOD is used to create LOD objects. It can create grass LODs, but at a quite huge performance cost. Creating grass LODs is not recommended for performance reasons.
+
+Open the *DynDOLOD_SSE.ini* file located in **..\Modding\Tools\DynDOLOD\DynDOLOD\Edit Scripts\DynDOLOD**
+
+Make the following modifications:
+
+```
+Expert=1
+Grass=0
+GrassDensity=70
+GrassLargeReference=1
+DoubleSidedMeshMask=mountain,mtn
+TerrainUnderside=1
+```
+
+If you use *Cathedral Landscapes* but not the other recommended grass mods, modify the following settings: 
+
+```
+GrassBrightnessTopR=0.410
+GrassBrightnessTopG=0.415
+GrassBrightnessTopB=0.400
+GrassBrightnessBottomR=0.200
+GrassBrightnessBottomG=0.203
+GrassBrightnessBottomB=0.195
+```
+
+If you use the mods in the section *Models & Textures - Grass*, modify the following settings.
+
+```
+GrassBrightnessTopR=0.600
+GrassBrightnessTopG=0.645
+GrassBrightnessTopB=0.650
+GrassBrightnessBottomR=0.300
+GrassBrightnessBottomG=0.323
+GrassBrightnessBottomB=0.325
+```
+
+If you want grass LODs:
+
+```
+Grass=1
+```
+
+If you want grass LODs you also need to edit *GrassControl.config.txt* from *No Grass in Objects*, installed in the *Extenders* section. In *GrassControl.config.txt*, set
+
+```
+DynDOLODGrassMode = 2
+```
+
+
+### Run TextGen
 
 1. Run TexGen from the MO2 executable drop-down list.
-1. Keep the default output location and and choose one of the following two options:
-* GPU with VRAM ≤ 4 GB:
-    * LOD Texture Size = 512
-    * Diffuse Alpha = BC3
-    * Normal Specular = BC7 Max
-    * Diffuse = BC1
-    * Normal = BC7 Max
-
-* GPU with VRAM > 4 GB:
-    * LOD Texture Size = 1024
-    * Diffuse Alpha = BC7 Max
-    * Normal Specular = BC7 Quick
-    * Diffuse = BC7 Max
-    * Normal = BC7 Quick
-1. Once the option has been chosen click Start. This will take ~20 minutes. 
+1. Check that the output location is correct. Change setting according to the pictures below.
+1. Once the options has been chosen click Start. This will take ~20 minutes. 
 1. Once the completed message has appeared, click *Save & Exit*.
-1. Right click any mod in Mod Organizer 2 and choose *All Mods/Refresh*.
-1. Ensure the TexGen_Output mod is active (checked).
 
-### DynDOLOD
+    {{%expand "Expand to show settings for HD resolution (1080p)" %}}
+![HD](/dreadsskyrimbuild/images/TexGenHD.png)
+   .{{% /expand%}}
 
-1. Open the root DynDOLOD folder (i.e., ..\Modding\Tools\DynDOLOD\).
-1. Open the DynDOLOD_SSE.ini file (i.e., ..\DynDOLOD\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini)
-1. Set *TreeLOD=0*
+       {{%expand "Expand to show settings for QHD resolution (1440p)" %}}
+![QHD](/dreadsskyrimbuild/images/TexGenQHD.png)
+   .{{% /expand%}}
+
+       {{%expand "Expand to show settings for 4K resolution (2160p)" %}}
+![4K](/dreadsskyrimbuild/images/TexGen4k.png)
+   .{{% /expand%}}
+
+{{% notice note %}}
+If you are not generating grass LOD, be sure to untick Grass found under *Tree/Grass LOD Billboards*
+{{% /notice %}}
+
+The generated files needs to be manually moved from the output folder. Cut and paste the files from the Textgen output folder to the empty mod folder *Textgen_Output* and activate it.
+
+### Run DynDOLOD
+
 1. Run DynDOLOD from the MO2 executable drop-down list.
 1. Select all worldspaces except the *Midwood Isle* and *Lastendell* worldspaces.
 1. Ensure that the following options are ticked:
@@ -139,8 +216,9 @@ Deactivate the following mods:
 1. Click the *High preset* button
 1. Click *OK* to generate LOD's. This takes ~40 minutes.
 1. Once the completed message has appeared, click Save & Exit.
-1. Right click any mod in Mod Organizer 2 and choose *All Mods/Refresh*.
-1. Ensure the DynDOLOD Output mod is active (checked).
+
+The generated files needs to be manually moved from the output folder. Cut and paste the files from the DynDOLOD output folder to the empty mod folder *DynDOLOD_Output* and activate it.
+
 1. Ensure the DynDOLOD esm and esp files are checked in the right pane.
 1. Sort with LOOT.
 1. Ensure DynDOLOD.esp is the last plugin in the load order.
