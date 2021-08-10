@@ -15,6 +15,6 @@ To download this ENB you need to register on the site where it is hosted.
 ### ENB for Azurite Weathers
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/47917" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-This ENB is based on The Truth by Phinix and is edited for Azurite Weathers by Mechanicalpanda
+This ENB is based on The Truth by Phinix and is edited for Azurite Weathers by Mechanicalpanda. Try this if you decided to use *Azurite Weathers*.
 
 

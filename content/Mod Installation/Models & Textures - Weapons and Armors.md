@@ -14,7 +14,7 @@ Recommendation: 2K
 Download and install the main file and the update file.
 
 ### Cathedral - Armory
-{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/20199" icon="fas fa-download" icon-position="right" %}}
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/20199" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Download and install the main file and the *Armor Mesh Fixes SE Patch*. CBBE users installs the *CBBE BodySlide Patch*.
 
