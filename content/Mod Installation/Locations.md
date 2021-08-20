@@ -109,6 +109,9 @@ Install the main file and the Clockwork patch.
 ### Immersive Dawnguard Dayspring Pass SE
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/4126" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+### JK's Arnleif and Sons Trading Company
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/54166" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
 ### JK's Angeline's Aromatics
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/44482" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
@@ -167,6 +170,9 @@ Install the main file and the optional file.
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/47942" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Install the main file
+
+### JK's Silver-Blood Inn
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/53554" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ### JK's Skyrim
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/6289" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

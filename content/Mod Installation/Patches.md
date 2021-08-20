@@ -24,6 +24,7 @@ Download and install the main file. In the installer, choose the following:
 * Select JKs Interiors
     * JK's Angeline's Aromatics
     * JK's Arcadia's Cauldron
+    * JK's Arnleif and Sons Trading Company
     * JK's Banned Mare
     * JK's Bee and Barb
     * JK's Belethor's General Goods
@@ -40,6 +41,7 @@ Download and install the main file. In the installer, choose the following:
     * JK's Radiant Ramient
     * JK's Ragged Flagon
     * JK's Sadri's Used Wares
+    * JK's Silver-Blood Inn
     * Jk's Sleeping Giant Inn
     * JK's Temple of Mara
     * JK's Warmaiden
@@ -52,6 +54,9 @@ Download and install the main file. In the installer, choose the following:
 * JK's Arcadia's Cauldron
     * AI Overhaul SSE
     * Unofficial Skyrim Special Edition Patch
+* JK's Arnleif and Sons Trading Company
+    * AI Overhaul
+    * Skyrim Project Optimization
 * JK's Banned Mare
     * Select nothing
 * JK's Bee and Barb
@@ -104,6 +109,9 @@ Download and install the main file. In the installer, choose the following:
     * USSEP
 * JK's Sadri's Used Wares
     * 3DNPC
+* JK's Silver-Blood Inn
+    * 3DNPC
+    * AI Overhaul
 * Jk's Sleeping Giant Inn
     * AI Overhaul SSE
     * Interesting NPCs

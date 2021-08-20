@@ -4,6 +4,38 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
+## 2021-08-20
+
+### Updated
+
+#### Patches
+
+* JK's Interiors Patch Collection
+  Updated install instructions
+
+#### Gameplay
+
+* SunHelm
+  Updated install instructions
+
+### Removed
+
+#### Gameplay
+
+* Disease Descriptions for the Immersive Adventurer SE
+
+#### Models & Textures - Weapons and Armors
+
+* aMidianBorn Matching Armory - Glass Armor and Weapons
+  Redundant, included in Cathedral Armory
+
+### Added
+
+#### Locations
+
+* JK's Arnleif and Sons Trading Company
+* JK's Silver-Blood Inn
+
 ## 2021-08-10
 
 ### Updated

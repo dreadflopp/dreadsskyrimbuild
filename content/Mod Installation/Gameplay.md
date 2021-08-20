@@ -58,7 +58,7 @@ Choose *Realistic AI Detection 2 SE - Lite*
 ## Camping & Survival
 
 {{% notice info %}}
-There are three supported survival mods to choose from. If you want to use a survival mod, choose either the official *Creation Club Survival Mode*, *SunHelm* or the minimalistic mod *The Frozen North*. In the future the guide may change to only support SunHelm. The author of SunHelm has stated that the next major version will probably require a new game if you previously have had Sunhelm installed.
+There are three supported survival mods to choose from. If you want to use a survival mod, choose either the official *Creation Club Survival Mode*, *SunHelm* or the minimalistic mod *The Frozen North*. In the future the guide may change to only support SunHelm. The author of SunHelm has stated that version 3 (the latest version) of SunHelm requires a new game if you previously have had SunHelm installed.
 {{% /notice %}}
 
 ### Camping Lite (Special Edition)
@@ -90,7 +90,7 @@ Install the main file, the english version.
 In the installer, choose the following options:
 
 * Extra Options
-   * Universal Water Patch
+   * Diseases
 * Platform
    * Skyrim SE
 * Patches
@@ -98,6 +98,10 @@ In the installer, choose the following options:
    * OCW
    * Easy Wheel
    * Wyrmstooth Region Patch
+
+{{% notice note %}}
+Do not install the ROM patch.
+{{% /notice %}}
 
 ### Survival Control Panel
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/41891" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
@@ -153,9 +157,6 @@ Install the main file and the Dawnstar by Arthmoor Patch.
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/32090" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Install the main file.
-
-### Disease Descriptions for the Immersive Adventurer SE
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/26992" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 ### Guard Dialogue Overhaul SE
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/22075" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

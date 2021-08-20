@@ -18,13 +18,6 @@ Download and install the main file and the update file.
 
 Download and install the main file and the *Armor Mesh Fixes SE Patch*. CBBE users installs the *CBBE BodySlide Patch*.
 
-### aMidianBorn Matching Armory - Glass Armor and Weapons
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/41711" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-{{% notice warning %}}
-Do not use with CBBE
-{{% /notice %}}
-
 ### aMidianBorn stormcloak officer armour
 {{% button href="https://www.nexusmods.com/skyrim/mods/45692" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
