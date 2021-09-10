@@ -183,15 +183,15 @@ DynDOLODGrassMode = 2
 1. Once the completed message has appeared, click *Save & Exit*.
 
     {{%expand "Expand to show settings for HD resolution (1080p)" %}}
-![HD](/dreadsskyrimbuild/images/TexGenHD.png)
+![HD](/dreadsskyrimbuild/images/TexGenHD.jpg)
    .{{% /expand%}}
 
     {{%expand "Expand to show settings for QHD resolution (1440p)" %}}
-![QHD](/dreadsskyrimbuild/images/TexGenQHD.png)
+![QHD](/dreadsskyrimbuild/images/TexGenQHD.jpg)
    .{{% /expand%}}
 
     {{%expand "Expand to show settings for 4K resolution (2160p)" %}}
-![4K](/dreadsskyrimbuild/images/TexGen4k.png)
+![4k](/dreadsskyrimbuild/images/TexGen4k.jpg)
    .{{% /expand%}}
 
 {{% notice note %}}
