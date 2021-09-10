@@ -17,7 +17,7 @@ Download and install all Main Files. Merge when asked.
 Download and install the Special Edition PARTICLE PATCH ALL-IN-ONE INSTALLATION file. Do not install the plugin, it is not needed.
 
 ### DynDOLOD Resources 3
-{{% button href="https://www.nexusmods.com/skyrim/mods/52897?" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/52897" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Download and install *DynDOLOD Resources SE 3*. Install using the following options:
 
