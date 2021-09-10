@@ -186,11 +186,11 @@ DynDOLODGrassMode = 2
 ![HD](/dreadsskyrimbuild/images/TexGenHD.png)
    .{{% /expand%}}
 
-       {{%expand "Expand to show settings for QHD resolution (1440p)" %}}
+    {{%expand "Expand to show settings for QHD resolution (1440p)" %}}
 ![QHD](/dreadsskyrimbuild/images/TexGenQHD.png)
    .{{% /expand%}}
 
-       {{%expand "Expand to show settings for 4K resolution (2160p)" %}}
+    {{%expand "Expand to show settings for 4K resolution (2160p)" %}}
 ![4K](/dreadsskyrimbuild/images/TexGen4k.png)
    .{{% /expand%}}
 
