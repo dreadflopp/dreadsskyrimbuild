@@ -4,6 +4,41 @@ weight = 10
 description = "This page lists all changes done to the guide itself."
 +++
 
+## 2021-09-15
+
+### Added
+
+#### Locations
+
+* JK's The Hag's Cure 
+
+### Updated
+
+#### Gameplay
+
+* Smooth Cam
+  Updated install instructions
+
+#### Models & Textures
+
+* Embers XD
+  Updated install instructions
+
+#### Patches
+
+* JK's Interiors Patch Collection
+  Updated install instructions
+
+#### Models & Textures - Grass
+
+* Fixed a typo that prevented the section from showing up and moved *The grass must grow* to this section.
+
+### Removed
+
+#### Models & Textures
+
+* Inferno
+
 ## 2021-08-20
 
 ### Updated

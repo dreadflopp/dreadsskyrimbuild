@@ -12,3 +12,9 @@ The grass included in *Cathedral Landscapes* is very performance friendly, but u
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/27041" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
 Download and install *Northern Shores 2K*.
+
+### The Grass Must Grow
+{{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/45266" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
+
+Download and install *The Grass Must Grow* and *The Grass Must Grow Landscape Add On*.
+

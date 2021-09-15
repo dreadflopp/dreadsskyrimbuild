@@ -165,7 +165,7 @@ Recommendation: red 1k
 ### Embers XD
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/37085" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
-Download *Embers XD Lite Beta*. Install using the following options:
+Download *Embers XD Lite*. Install using the following options:
 
 * Effect Quality: High Quality
 * Customization: Embers XD Flames (yellow/orange)
@@ -331,21 +331,6 @@ Recommendation download and install two files:
 
 * Grindstones - 10X Sparks
 * Impact Effects - Vanilla Sparks
-
-### Inferno - Fire Effects Redux
-{{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/29316" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
-
-Recommended install options:
-
-* Main Installation: Core Files
-* Resolution Options: Lite
-* Glow Options: Normal
-* Inferno Flame Color: Yellow
-* Tile Options: New
-* Size Options: Regular
-* Patch Options: Ember HD
-* Patch Options: Select Nothing
-* Patch Options: Select Nothing
 
 ### Just Ice (SE)
 {{% button href="http://www.nexusmods.com/skyrimspecialedition/mods/9444" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}

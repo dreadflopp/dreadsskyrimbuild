@@ -20,6 +20,8 @@ Download and install the Main File.
 ### SmoothCam
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/41252" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
+In the installer, choose *SmoothCam AVX* and *esl*.
+
 ### True Directional Movement - Modernized Third Person Gameplay
 {{% button href="https://www.nexusmods.com/skyrimspecialedition/mods/51614" icon="fas fa-download" icon-position="right" %}}Download{{% /button %}}
 
